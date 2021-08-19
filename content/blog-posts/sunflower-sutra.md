@@ -57,16 +57,20 @@ The most popular pair of two positive signs are **safe and easy** meanwhile for 
 ![](/images/2021-08-19-11-31-57.png) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. It gives a hint to us that breakouts have a connection to the number of movements made during use.
 
 * Participants who have not broken out from safety boundaries mostly triggered it with **"Breaking out of the boundary with the controller (or hand)"** and **"Approximating the boundary but not breaking out"**. Сuriously enough in most cases, they do stop their actions during VR if participants are too close to boundaries or made it show up because of the controller.
+* We can see the only positive correlation between columns FeelAnnoyed and ContinueAction. As well shown in the diagram of the Likert scale below it is clear that more participants are more likely to disagree with these two statements: (a) **The VR safety boundary makes me feel annoyed.** and (b) **I do continue my action in spite of the warning of VR boundaries.**
 
 ![](/images/2021-08-19-1-16-39.png)
 
 ![](/images/2021-08-19-1-14-24.png)
+
+![](/images/image.png)Thanks to Wen-Jie Tseng. 
 
 ### **What we learned:**
 
 * The more user has to perform physical actions the higher the probability of breaking out.
 * Although most users rarely notice boundaries and just as rarely violate them, they immediately rethink their actions and stop after triggered boundaries appear. This is what the third observation can tell us.
 * For the user, the biggest drawback is not in the technical form of implementation, but in how this form irritates them. This means that it is worth choosing a different way of forewarning users than today's multi-coloured grids.
+* Since more people find SM annoying they easily neglect them.
 
 ### **Future Work**
 
