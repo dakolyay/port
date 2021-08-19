@@ -1,14 +1,18 @@
 ---
-title: Sunflower Sutra
-date: 2019-07-16T19:17:43.000+00:00
+title: Out-Of-Bound
+date: 2019-06-30T19:17:43+00:00
 type: blog
-hero: "/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
-author: Allen Ginsberg
+hero: "/images/oculusguardiansystem-scaled.jpeg"
+author: ''
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+### **Motivation**
 
-Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
+These days, users of VR systems are often injured while using these techniques and such cases are not uncommon and arise both for beginners who have tried it for the first time as well as for experienced users. For such reason, VR companies invented _Safety Mechanisms_ to protect their customers. Unfortunately, they did not completely stop the incidents that appeared in process of use.
+
+Safety mechanisms nowadays are mostly rendered as a grid surrounding the user. For our convenience, we have denoted the term _“breaking out”_ which stands for any attempt to somehow violate the boundaries of the security mechanism, albeit in whole or in part.
+
+Our motivation is to reduce the number of breaking out attempts as well as the number of incidents and accidents caused by the use of virtual reality systems. This could be accomplished by understanding what these new technologies are missing now. So the purpose of our work is to understand how users feel about this safety technique and to analyze how really useful they are.
 
 ![](/images/elcarito-CRn-_80z4SE-unsplash.jpg)
 
