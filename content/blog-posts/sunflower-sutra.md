@@ -32,9 +32,13 @@ The next stage of the process is the most important one - survey construction. D
 2. Have you ever modified your safety boundary's default settings? (e.g., decrease or Increase proximity sensitivity, grid colour). (Yes/No)
 3. Have you ever broke out of the safety boundary during a VR experience? We define the "breaking out" as leaving the safety boundary with any body part (e.g., controller, headset). (Yes/No)
 
-It is important to mention that our research concerned only a special narrow circle of society. We examined people who actively used virtual reality technologies, thereby claiming that they have sufficient experience to fully answer our questions. As a result, we collected 191 responses, but unfortunately, not all of them were approved. I was in charge of the process of selecting and collecting the correct answers which were done manually as there was a lot of incorrect data and a lot of open questions
+It is important to mention that our research concerned only a special narrow circle of society. We examined people who actively used virtual reality technologies, thereby claiming that they have sufficient experience to fully answer our questions. As a result, we collected 191 responses, but unfortunately, not all of them were approved. I was in charge of the process of selecting and collecting the correct answers which were done manually as there was a lot of incorrect data and a lot of open questions.
+
+![](/images/pie.png)
 
 After collecting the answers, for the exact purpose of data analysis, a very long process of cleaning and preparing the data began. The questionnaire was in a CSV format and had open-ended questions like text also numeric values, scale values, categorical values, and lots of nan variable blanks. The particular reason for the circumstance of having empty data appeared due to the fact that not all participants answered these questions because they did not go further to the section where they were asked.
+
+![](/images/2021-08-19-10-41-15.png)
 
 ![](/images/worldcloud.png)
 
