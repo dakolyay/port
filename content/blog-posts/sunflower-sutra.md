@@ -54,7 +54,7 @@ The most popular pair of two positive signs are **safe and easy** meanwhile for 
 
 During the breaking out, the most common application type was Gaming(**90%, wow**)
 
-![](/images/2021-08-19-11-31-57.png) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and imitation of life activity. It gives a hint to us that breakouts have a connection to the number of movements made during use.
+![](/images/2021-08-19-11-31-57.png) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. It gives a hint to us that breakouts have a connection to the number of movements made during use.
 
 ### What we learned:
 
