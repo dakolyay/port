@@ -26,4 +26,4 @@ To address the lack of data on the user experience of safety technologies, it wa
 
 As a newcomer, my work began with testing the water. In a short time, I had a chance to plunge into the world of virtual reality, go through half of [the Half-Life: Alyx](https://www.half-life.com/ru/alyx/), read about VR Fails and become sufficiently aware of the world of Virtual Reality.  
 
-The next stage of the process is the most important one - survey construction. Due to multiple iterations 
+The next stage of the process is the most important one - survey construction. Due to multiple iterations for the purpose of getting the best version this stage also became the longest. It was decided to create a survey on Google Forms by the reason of its clarity and convenience. With 48 questions of different categories, we published it on Reddit, Amazon MTurk, also between DIVA research group and platform for VR research projects - XRDNR.
