@@ -56,7 +56,9 @@ During the breaking out, the most common application type was Gaming(**90%, wow*
 
 ![](/images/2021-08-19-11-31-57.png) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. It gives a hint to us that breakouts have a connection to the number of movements made during use.
 
-### What we learned:
+### **What we learned:**
 
 * The more user has to perform physical actions the higher the probability of breaking out.
 * For the user, the biggest drawback is not in the technical form of implementation, but in how this form irritates them. This means that it is worth choosing a different way of forewarning users than today's multi-coloured grids.
+
+### **Future Work**
