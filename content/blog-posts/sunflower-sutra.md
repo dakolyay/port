@@ -30,6 +30,8 @@ It is important to mention that our research concerned only a special narrow cir
 
 After collecting the answers, for the exact purpose of data analysis, a very long process of cleaning and preparing the data began. The questionnaire was in a CSV format and had open-ended questions like text also numeric values, scale values, categorical values, and lots of nan variable blanks. The particular reason for the circumstance of having empty data appeared due to the fact that not all participants answered these questions because they did not go further to the section where they were asked.
 
+![](/images/worldcloud.png)
+
 ![](/images/2021-08-19-12-39-40.png)
 
 ### What we learned:
