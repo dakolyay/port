@@ -63,7 +63,7 @@ The most popular pair of two positive signs are **safe and easy** meanwhile for 
 
 ![](/images/2021-08-19-1-14-24.png)
 
-![](/images/image.png)Thanks to Wen-Jie Tseng. 
+![](/images/image.png)Thanks to Wen-Jie Tseng.
 
 ### **What we learned:**
 
@@ -75,3 +75,5 @@ The most popular pair of two positive signs are **safe and easy** meanwhile for 
 ### **Future Work**
 
 For future work, it could be useful to recruit more people in order to have more practical information. As an idea, further experiments could be arranged in real-time in which the participants will have to complete the VR game where they will need to avoid the barriers and obstacles.
+
+![](/images/is.png)
