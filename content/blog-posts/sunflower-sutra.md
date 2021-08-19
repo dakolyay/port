@@ -44,7 +44,7 @@ Description of the given sizes of borders and rooms(in meters) and user's freque
 
 ![](/images/2021-08-19-10-51-45.png)
 
-1. To understand what is the first thing that comes to people’s minds according to safety mechanisms, we asked them to list three positives and negatives. Then we coded them into a word cloud. The most frequent positive association will be **safe** and the most frequent negative will be **annoying**. This actively demonstrates that the safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques.
+* To understand what is the first thing that comes to people’s minds according to safety mechanisms, we asked them to list three positives and negatives. Then we coded them into a word cloud. The most frequent positive association will be **safe** and the most frequent negative will be **annoying**. This actively demonstrates that the safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques.
 
 ![](/images/worldcloud.png)
 
@@ -52,11 +52,15 @@ Description of the given sizes of borders and rooms(in meters) and user's freque
 
 The most popular pair of two positive signs are **safe and easy** meanwhile for negative signs are **risky and unproductive**.
 
-2. During the breaking out, the most common application type was Gaming(**90%, wow**)
+* During the breaking out, the most common application type was Gaming(**90%, wow**)
 
 ![](/images/2021-08-19-11-31-57.png) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. It gives a hint to us that breakouts have a connection to the number of movements made during use.
 
-3. Participants who have not broken out from safety boundaries mostly triggered it with **"Breaking out of the boundary with the controller (or hand)"** and **"Approximating the boundary but not breaking out"**. Сuriously enough in most cases, they do stop their actions during VR if participants are too close to boundaries or made it show up because of the controller. 
+* Participants who have not broken out from safety boundaries mostly triggered it with **"Breaking out of the boundary with the controller (or hand)"** and **"Approximating the boundary but not breaking out"**. Сuriously enough in most cases, they do stop their actions during VR if participants are too close to boundaries or made it show up because of the controller.
+
+![](/images/2021-08-19-1-16-39.png)
+
+![](/images/2021-08-19-1-14-24.png)
 
 ### **What we learned:**
 
