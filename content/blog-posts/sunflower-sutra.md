@@ -52,9 +52,9 @@ Description of the given sizes of borders and rooms(in meters) and user's freque
 
 The most popular pair of two positive signs are **safe and easy** meanwhile for negative signs are **risky and unproductive**.
 
-* During the breaking out, the most common application type was Gaming(**90%, wow**)
+* During the breaking out, the most common application type was Gaming(**90%, wow**) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. It gives a hint to us that breakouts have a connection to the number of movements made during use.
 
-![](/images/2021-08-19-11-31-57.png) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. It gives a hint to us that breakouts have a connection to the number of movements made during use.
+![](/images/2021-08-19-11-31-57.png)
 
 * Participants who have not broken out from safety boundaries mostly triggered it with **"Breaking out of the boundary with the controller (or hand)"** and **"Approximating the boundary but not breaking out"**. Сuriously enough in most cases, they do stop their actions during VR if participants are too close to boundaries or made it show up because of the controller.
 * We can see the only positive correlation between columns FeelAnnoyed and ContinueAction. As well shown in the diagram of the Likert scale below it is clear that more participants are more likely to disagree with these two statements: (a) **The VR safety boundary makes me feel annoyed.** and (b) **I do continue my action in spite of the warning of VR boundaries.**
