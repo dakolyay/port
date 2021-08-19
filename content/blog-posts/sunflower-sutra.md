@@ -16,7 +16,7 @@ Our motivation is to reduce the number of breaking out attempts as well as the n
 
 ![](/images/futureofvr_getty_ringer-0.jpg)
 
-### A New Blood
+### **A New Blood**
 
 ["A persons who are accepted into a group or organization and are expected to provide fresh ideas and vitality."](https://www.merriam-webster.com/dictionary/new%20blood)
 
