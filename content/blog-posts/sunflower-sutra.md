@@ -40,9 +40,19 @@ After collecting the answers, for the exact purpose of data analysis, a very lon
 
 ![](/images/2021-08-19-10-41-15.png)
 
+lbhgcd
+
+![](/images/2021-08-19-10-51-45.png)
+
+klkvgfc
+
 ![](/images/worldcloud.png)
 
 ![](/images/2021-08-19-12-39-40.png)
+
+The most popular pair of two positive signs are **safe and easy** meanwhile for negative signs are **risky and unproductive**.
+
+In the list of applications used during breaking out the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera)
 
 ### What we learned:
 
