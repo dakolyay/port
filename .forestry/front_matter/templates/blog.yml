@@ -32,5 +32,6 @@ fields:
   label: Hero Image
 pages:
 - content/blog-posts/Walking.md
+- content/blog-posts/fast-exact-geodesics-on-meshes.md
 - content/blog-posts/self-reliance.md
 - content/blog-posts/sunflower-sutra.md
