@@ -40,6 +40,8 @@ After collecting the answers, for the exact purpose of data analysis, a very lon
 
 ![](/images/2021-08-19-10-41-15.png)
 
+### Data Analysis
+
 Description of the given sizes of borders and rooms(in meters) and user's frequency(in a month) and hours spent per week during VR.
 
 ![](/images/2021-08-19-10-51-45.png)
