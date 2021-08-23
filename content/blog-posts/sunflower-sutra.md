@@ -53,7 +53,7 @@ _Set up Safety Boundaries_
 
 We ask people how frequently they reset their safety boundaries and what is the reason to do so. The minority agreed that either they never change settings, or every time they reset boundaries when launching VR. The rest reported that they do reset boundaries occasionally, from time to time. The particular reasons for it are (1) a request from VR systems (52%) and (2) a change of the usual or last environment situation (43%). For these two reasons, we can say that users have to reconfigure their safety boundaries to start using VR headsets, and in most cases, their system forces them to do this.
 
-A third of the respondents, following the instructions, remove all obstacles from within borders. 
+A third of the respondents follow the instructions by removing all obstacles from within borders. 
 
 1. rectangles -> room
 2. Likert scale
