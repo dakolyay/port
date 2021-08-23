@@ -20,7 +20,7 @@ Our motivation is to reduce the number of breaking out attempts as well as the n
 
 ### **Method**
 
-It was decided to identify the key points and consider the problem in detail. However, the lack of information according to safety mechanisms as well as the information about users experiences with them in VR led us to run our own survey. We conducted an online experiment that investigates respondents’ behaviour inside safety boundaries and during _the_ _breaking out_ process along with what were the border settings at that time. We focused on the public, which should be actively using VR headsets with inbuilt SM. The pilot survey was published on different platforms like Reddit, XRDNR, also between [the DIVA research group](https://diva.telecom-paristech.fr). The second survey was posted on Amazon MTurk. Both surveys included demographic questions and personal feedback from participants. The second survey covers demographic questions, questions about how is VR, feedback
+It was decided to identify the key points and consider the problem in detail. However, the lack of information according to safety mechanisms as well as the information about users experiences with them in VR led us to run our own survey. We conducted an online experiment that investigates respondents’ behaviour inside safety boundaries and during _the_ _breaking out_ process along with what were the border settings at that time. We focused on the public, which should be actively using VR headsets with inbuilt SM. The survey was created on[ Google Forms](https://www.google.com/forms/about/) for the reason of its clarity and convenience. Due to multiple iterations which were done in order to get an optimal version of the survey two surveys were compiled. The pilot survey was published on different platforms like Reddit, XRDNR, also between [the DIVA research group](https://diva.telecom-paristech.fr). The second survey was posted on Amazon MTurk. The second survey covers demographic questions, questions about how participants act in VR also what brought them to act like that, plus personal feedback.
 
 1. **Demographics**(n=10).
 2. **Set up Safety Boundaries**(n=13). Questions asked was related to default settings and their modification together with customization of safety mechanism.
@@ -41,12 +41,6 @@ Demographics
 ### **A New Blood**
 
 ["A persons who are accepted into a group or organization and are expected to provide fresh ideas and vitality."](https://www.merriam-webster.com/dictionary/new%20blood)
-
-To address the lack of data on the user experience of safety technologies, it was decided to conduct our own research. The best option was to organize a survey with the key points that interested us.
-
-As a newcomer, my work began with testing the water. In a short time, I had a chance to plunge into the world of virtual reality, go through half of [the Half-Life: Alyx](https://www.half-life.com/ru/alyx/), read about [VR Fails](https://www.google.com/url?q=https://www.reddit.com/r/virtualreality/&sa=D&source=editors&ust=1629362098756000&usg=AOvVaw0OKdp1outncfSdPOYAhmKc) and become sufficiently aware of the world of Virtual Reality.
-
-The next stage of the process is the most important one - survey construction. Due to multiple iterations for the purpose of getting the best version this stage also became the longest. It was decided to create a survey on Google Forms by the reason of its clarity and convenience. With 48 questions of different categories, we published it on [Amazon MTurk](https://requester.mturk.com/create/projects), also between the DIVA research group and platform for VR research projects - [XRDNR](https://www.xrdrn.org/2021/06/experiences-and-attitudes-towards-the-safety-boundaries-in-virtual-reality/).
 
 ![](/images/2021-08-19-10-07-56.png)
 
