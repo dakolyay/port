@@ -32,6 +32,8 @@ It was decided to identify the key points and consider the problem in detail. Ho
    * Inside the safety boundary(n=3). On the contrary, If there were not any _breaking out_ experiences, we are curious to know what made participants stay inside safety boundaries.
 4. **Personal feedback on the VR safety boundaries**(n=3).
 
+![](/images/demographics-and-backgrounds.png)
+
 As a result, we received 14 answers from the pilot survey and 48 answers from Amazon MTurk.
 
 _Demographics:_  
@@ -47,9 +49,12 @@ According to the survey's result [ Oculus Quest 2](https://www.oculus.com/quest-
 
 Generally, the respondents used a VR headset 10.6 hours per week (1,77 per day) in the range from 1 to 30 hours per week. The majority spend this time equally between standing and sitting positions (27%). Participants did not show any preference in the type of VR setting (room-scale, stationary) which they set with proportion 50/50 of all the time spent in VR.
 
-![](/images/2021-08-19-10-07-56.png)
-
-### 
+1. rectangles -> room
+2. Likert scale
+3. presentation
+4. open-ended questions
+5. method
+6. word cloud
 
 ### **What we learned:(Conclusion)**
 
