@@ -24,7 +24,7 @@ Our motivation is to reduce the number of breaking out attempts as well as the n
 
 ### **Method**
 
-It was decided to identify the key points and consider the problem in detail. However, the lack of information according to safety mechanisms as well as the information about users experiences with them in VR led us to run our own survey. We conducted an online experiment that investigates respondents’ behaviour inside safety boundaries and during _the_ _breaking out_ process along with what were the border settings. 
+It was decided to identify the key points and consider the problem in detail. However, the lack of information according to safety mechanisms as well as the information about users experiences with them in VR led us to run our own survey. We conducted an online experiment that investigates respondents’ behaviour inside safety boundaries and during _the_ _breaking out_ process along with what were the border settings at that time. We focused on the public, which should be actively using VR headsets with inbuilt SM. 
 
 ### **A New Blood**
 
