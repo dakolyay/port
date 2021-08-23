@@ -36,54 +36,11 @@ It was decided to identify the key points and consider the problem in detail. Ho
 
 As a result, we received 14 answers from the pilot survey and 48 answers from Amazon MTurk.
 
-Demographics
-
-### **A New Blood**
-
-["A persons who are accepted into a group or organization and are expected to provide fresh ideas and vitality."](https://www.merriam-webster.com/dictionary/new%20blood)
+Demographics:
 
 ![](/images/2021-08-19-10-07-56.png)
 
-1. Have you ever customized your safety mechanism with additional props, software or physical tools? (Yes/No)
-2. Have you ever modified your safety boundary's default settings? (e.g., decrease or Increase proximity sensitivity, grid colour). (Yes/No)
-3. Have you ever broke out of the safety boundary during a VR experience? We define the "breaking out" as leaving the safety boundary with any body part (e.g., controller, headset). (Yes/No)
-
-It is important to mention that our research concerned only a special narrow circle of society. We examined people who actively used virtual reality technologies, thereby claiming that they have sufficient experience to fully answer our questions. As a result, we collected 191 responses, but unfortunately, not all of them were approved. I was in charge of the process of selecting and collecting the correct answers which were done manually as there was a lot of incorrect data and a lot of open questions.
-
-![](/images/pie.png)
-
-After collecting the answers, for the exact purpose of data analysis, a very long process of cleaning and preparing the data began. The questionnaire was in a CSV format and had open-ended questions like text also numeric values, scale values, categorical values, and lots of nan variable blanks. The particular reason for the circumstance of having empty data appeared due to the fact that not all participants answered these questions because they did not go further to the section where they were asked.
-
-![](/images/2021-08-19-10-41-15.png)
-
-### Data Analysis
-
-Description of the given sizes of borders and rooms(in meters) and user's frequency(in a month) and hours spent per week during VR.
-
-![](/images/2021-08-19-10-51-45.png)
-
-* To understand what is the first thing that comes to people’s minds according to safety mechanisms, we asked them to list three positives and negatives. Then we coded them into a word cloud. The most frequent positive association will be **safe** and the most frequent negative will be **annoying**. This actively demonstrates that the safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques.
-
-![](/images/worldcloud.png)
-
-![](/images/2021-08-19-12-39-40.png)
-
-The most popular pair of two positive signs are **safe and easy** meanwhile for negative signs are **risky and unproductive**.
-
-* During the breaking out, the most common application type was Gaming(**90%, wow**) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. It gives a hint to us that breakouts have a connection to the number of movements made during use.
-
-![](/images/2021-08-19-11-31-57.png)
-
-* Participants who have not broken out from safety boundaries mostly triggered it with **"Breaking out of the boundary with the controller (or hand)"** and **"Approximating the boundary but not breaking out"**. Сuriously enough in most cases, they do stop their actions during VR if participants are too close to boundaries or made it show up because of the controller.
-* We can see the only positive correlation between columns FeelAnnoyed and ContinueAction. As well shown in the diagram of the Likert scale below it is clear that more participants are more likely to disagree with these two statements: (a) **The VR safety boundary makes me feel annoyed.** and (b) **I do continue my action in spite of the warning of VR boundaries.**
-
-![](/images/2021-08-19-1-16-39.png)
-
-![](/images/2021-08-19-1-14-24.png)
-
-![](/images/image.png)Thanks to Wen-Jie Tseng.
-
-### **What we learned:**
+### **What we learned:(Conclusion)**
 
 * The more user has to perform physical actions the higher the probability of breaking out.
 * Although most users rarely notice boundaries and just as rarely violate them, they immediately rethink their actions and stop after triggered boundaries appear. This is what the third observation can tell us.
@@ -93,5 +50,3 @@ The most popular pair of two positive signs are **safe and easy** meanwhile for 
 ### **Future Work**
 
 For future work, it could be useful to recruit more people in order to have more practical information. As an idea, further experiments could be arranged in real-time in which the participants will have to complete the VR game where they will need to avoid the barriers and obstacles.
-
-![](/images/is.png)
