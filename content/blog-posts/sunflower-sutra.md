@@ -37,7 +37,9 @@ As a result, we received 14 answers from the pilot survey and 48 answers from Am
 Demographics:  
 As mentioned above our research concerned only a special narrow circle of society. We examined people who actively used virtual reality technologies, thereby claiming that they have sufficient experience to properly answer the questions.
 
-The results are based on respondents, who completed the MTurk survey. 59% of the respondents were male. The respondents ranged in age from 20 to 63, with an average age of 32 (standard deviation 9.1). Among 48 participants, 73% declare themselves as Gamers(35), 17% as Developers(8) and 10% as Designers(5). The majority held a Bachelor's degree(56%). The proficiency of users was counted in months, therefore participants have on average a bit less than 2 years(21 months) of frequent user experience. 
+The results are based on respondents, who completed the MTurk survey. 59% of the respondents were male. The respondents ranged in age from 20 to 63, with an average age of 32 (standard deviation 9.1). Among 48 participants, 73% declare themselves as Gamers(35), 17% as Developers(8) and 10% as Designers(5). The majority held a Bachelor's degree(56%). 
+
+The proficiency of users was counted in months, therefore participants have on average a bit less than 2 years(21 months) of frequent user experience. The "newbies" are frequent users only since June(2 months) when the "skilled" is in VR 5 years already(62 months). 
 
 According to the survey's result [ Oculus Quest 2](https://www.oculus.com/quest-2/) is the most used VR headset (31%) followed by  [Oculus Rift](https://www.oculus.com) (27%) and [Oculus Quest 1](https://www.oculus.com/quest/features/) (16%) that respondents chose as the device they are more familiar with and besides, they turned out to be the most sold among the audience (16 customers of Oculus Quest 2 and Oculus Rift & 15 of Oculus Quest 1). 
 
