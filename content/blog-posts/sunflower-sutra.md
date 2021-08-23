@@ -24,7 +24,19 @@ Our motivation is to reduce the number of breaking out attempts as well as the n
 
 ### **Method**
 
-It was decided to identify the key points and consider the problem in detail. However, the lack of information according to safety mechanisms as well as the information about users experiences with them in VR led us to run our own survey. We conducted an online experiment that investigates respondents’ behaviour inside safety boundaries and during _the_ _breaking out_ process along with what were the border settings at that time. We focused on the public, which should be actively using VR headsets with inbuilt SM. 
+It was decided to identify the key points and consider the problem in detail. However, the lack of information according to safety mechanisms as well as the information about users experiences with them in VR led us to run our own survey. We conducted an online experiment that investigates respondents’ behaviour inside safety boundaries and during _the_ _breaking out_ process along with what were the border settings at that time. We focused on the public, which should be actively using VR headsets with inbuilt SM. The pilot survey was published on different platforms like Reddit, XRDNR, also between the DIVA research group. The second survey was posted on Amazon MTurk. Both surveys included demographic questions and personal feedback from participants. The second survey covers questions of  two categories:
+
+1. **Set up Safety Boundaries**(n=13). Questions asked was related to default settings and their modification together with customization of safety mechanism. 
+   * 
+2. **While using VR**(n=)
+   * Attitude towards safety mechanism(n=9). This section has two 5-point scale questions about the frequency of notification and any kind of violation of safety boundaries, seven 5-point Likert scale questions ("strongly disagree" - "strongly agree") about safety mechanisms' performance from participants view. 
+   * Triggering the safety boundary(n=4). Questions of this section relate to how participants triggered safety boundaries warnings and what was their actions after it. 
+   * When breaking out happens(n=6). We are interested to know did triggering boundaries of SF led to _breaking out_ experience. If it was a case, what was the overall situation and what were the reasons and settings during it? 
+   * Inside the safety boundary(n=3). On the contrary, If there were not any _breaking out_ experiences, we are curious to know what made participants stay inside safety boundaries.
+
+  As a result, we received 14 answers from the pilot survey and 48 answers from Amazon MTurk. 
+
+Demographics 
 
 ### **A New Blood**
 
