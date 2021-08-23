@@ -8,7 +8,7 @@ author: Dariya Mukhatova
 ---
 ### **Motivation**
 
-These days, users of VR systems are often injured while using these techniques and such cases are not uncommon and arise both for beginners who have tried it for the first time as well as for experienced users. For such reason, VR companies invented _Safety Mechanisms_ to protect their customers. Unfortunately, they did not completely stop the incidents that appeared in process of use. With the members of [the DIVA Research group](https://diva.telecom-paristech.fr)       Jan Gugenheimer and Wen-Jie Tseng, we want to pay attention to this issue.
+These days, users of Virtual Reality(VR) systems are often injured while using these techniques and such cases are not uncommon and arise both for beginners who have tried it for the first time as well as for experienced users. For such reason, VR companies invented _Safety Mechanisms_ to protect their customers. Unfortunately, they did not completely stop the incidents that appeared in process of use. With the members of [the DIVA Research group](https://diva.telecom-paristech.fr)       Jan Gugenheimer and Wen-Jie Tseng, we want to pay attention to this issue.
 
 Safety mechanisms nowadays are mostly rendered as a grid surrounding the user. For our convenience, we have denoted the term _“breaking out”_ which stands for any attempt to somehow violate the boundaries of the security mechanism, albeit in whole or in part.
 
