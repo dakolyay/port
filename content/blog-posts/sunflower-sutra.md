@@ -14,21 +14,19 @@ Our motivation is to reduce the number of breaking out attempts as well as the n
 
 ![](/images/futureofvr_getty_ringer-0.jpg)
 
-### **Problem**
-
 ### **Method**
 
-It was decided to identify the key points and consider the problem in detail. However, the lack of information according to safety mechanisms as well as the information about users experiences with them in VR led us to run our own survey. We conducted an online experiment(N=62) that investigates respondents’ behaviour inside safety boundaries and during _the_ _breaking out_ process along with what were the border settings at that time. We focused on the public, which should be actively using VR headsets with inbuilt SM. The survey was created on[ Google Forms](https://www.google.com/forms/about/) for the reason of its clarity and convenience. Due to multiple iterations which were done in order to get an optimal version of the survey - two surveys were compiled. However, only open-ended questions of the pilot survey will be considered. The pilot survey was published on different platforms such as Reddit, [XRDRN](https://www.xrdrn.org/about/), also between [the DIVA research group](https://diva.telecom-paristech.fr) members. The second survey was posted on Amazon MTurk. The ameliorated survey covers demographic questions, questions about how participants act in VR also what brought them to act like that, plus personal feedback:
+It was decided to identify the key points and consider the problem in detail. However, the lack of information according to safety mechanisms as well as the information about users experiences with them in VR led us to run our own survey. We conducted an online experiment(N=62) that investigates respondents’ behaviour inside safety boundaries and during _the_ _breaking out_ process along with what were the situations and border settings at that time. We focused on the public, which should be actively using VR headsets with inbuilt SM. The survey was created on[ Google Forms](https://www.google.com/forms/about/) for the reason of its clarity and convenience. Due to multiple iterations which were done in order to get an optimal version of the survey - two surveys were compiled. However, only open-ended questions of the pilot survey will be considered. The pilot survey was published on different platforms such as Reddit, [XRDRN](https://www.xrdrn.org/about/), also between [the DIVA research group](https://diva.telecom-paristech.fr) members. The second survey was posted on Amazon MTurk. The ameliorated survey covers demographic questions, questions about how participants act in VR also what conditions brought them to act like that, plus personal feedback:
 
 1. **Demographics**(n=10).
-2. **Set up Safety Boundaries**(n=13). Questions asked was related to default settings and their modification together with customization of safety mechanism.
+2. **Set up Safety Boundaries**(n=13). Questions asked were related to default settings and their modification together with the customization of safety mechanisms.
    * General setting up(n=8)
    * Customizing the VR safety boundaries(n=2)
    * Modify safety boundaries' default settings(n=3)
 3. **While using VR**(n=22):
-   * Attitude towards safety mechanism(n=9). This section has two 5-point scale questions about the frequency of notification and any kind of violation of safety boundaries, seven 5-point Likert scale questions ("strongly disagree" - "strongly agree") about safety mechanisms' performance from participants view.
+   * Attitude towards safety mechanism(n=9). This section has two 5-point scale questions about the frequency of notification and the frequency of any kind of safety boundaries violation, seven 5-point Likert scale questions ("strongly disagree" - "strongly agree") about safety mechanisms' performance from participants view.
    * Triggering the safety boundary(n=4). Questions of this section relate to how participants triggered safety boundaries warnings and what was their actions after it.
-   * When breaking out happens(n=6). We are interested to know did triggering boundaries of SF led to _breaking out_ experience. If it was a case, what was the overall situation and what were the reasons and settings during it?
+   * When breaking out happens(n=6). We are interested to know did triggering boundaries of SM led to _breaking out_ experience. If it was a case, what was the overall situation and what were the reasons and settings during it?
    * Inside the safety boundary(n=3). On the contrary, If there were not any _breaking out_ experiences, we are curious to know what made participants stay inside safety boundaries.
 4. **Personal feedback on the VR safety boundaries**(n=3).
 
@@ -103,3 +101,5 @@ Pilot Survey Open Ended-Questions
 ### **Future Work**
 
 For future work, it could be useful to recruit more people in order to have more practical information. As an idea, further experiments could be arranged in real-time in which the participants will have to complete the VR game where they will need to avoid the barriers and obstacles.
+
+### **References**
