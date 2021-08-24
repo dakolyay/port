@@ -32,6 +32,8 @@ It was decided to identify the key points and consider the problem in detail. Ho
    * Inside the safety boundary(n=3). On the contrary, If there were not any _breaking out_ experiences, we are curious to know what made participants stay inside safety boundaries.
 4. **Personal feedback on the VR safety boundaries**(n=3).
 
+![](/images/demographics-and-backgrounds-3.jpg)
+
 As a result, we received 14 answers from the pilot survey and 48 answers from Amazon MTurk.
 
 _Demographics:_  
