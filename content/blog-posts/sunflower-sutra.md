@@ -64,6 +64,8 @@ Attitude towards SM
 
 ![](/images/2021-08-24-10-31-22.png)
 
+The vast majority positively speak out about SMs' boundaries. They believe that The warning fulfils its responsibility to keep the user in a safe area and warn them convincingly. 
+
 After triggering the safety boundaries warning the 40% of respondents have left the safety area even if almost all of them (90%) have been warned about violating safety boundaries. The most common reason was the incompatibility of physical movements, hand motor skills and maintaining the body balance between virtuality and reality.
 
 During the breaking out, the most common application type was Gaming(90%) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. During the use of these applications, users have to strike a balance between two realities.
@@ -78,18 +80,7 @@ The most common positive association with safety mechanisms will be "safe(safety
 
 And the most frequent negative impression will be **annoying**. For negative signs are risky and unproductive.
 
-This actively demonstrates that the safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques.
-
 ![](/images/worldcloud.png)
-
-Pilot Survey Open Ended-Questions
-
-1. rectangles -> room
-2. presentation
-3. open-ended questions
-4. method
-5. word cloud
-6. больше графиков
 
 ### **What we learned:**
 
@@ -98,6 +89,8 @@ Pilot Survey Open Ended-Questions
 * Safety boundaries warning can not prevent "breaking out" if a person loses control of his body during a VR session.
 * Loss of control is correlated with the type of interaction between the user and the system. When there is a big difference in motion correction between virtual reality and reality participants unintentionally violate borders.
 * For people who trust safety boundaries and have a fear of getting hurt if they will not respect SM, it is enough to have a warning they trigger. 
+* These technologies have the good credibility they deserve because they meet the user's requirement to keep them safe. These technologies have received trust from the user.
+* The safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques. This format irritates them. 
 
 ### **Future Work**
 
