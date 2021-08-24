@@ -76,6 +76,8 @@ And the most frequent negative impression will be **annoying**. For negative sig
 
 This actively demonstrates that the safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques.
 
+![](/images/worldcloud.png)
+
 Pilot Survey Open Ended-Questions
 
 1. rectangles -> room
