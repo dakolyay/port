@@ -32,8 +32,6 @@ It was decided to identify the key points and consider the problem in detail. Ho
    * Inside the safety boundary(n=3). On the contrary, If there were not any _breaking out_ experiences, we are curious to know what made participants stay inside safety boundaries.
 4. **Personal feedback on the VR safety boundaries**(n=3).
 
-![](/images/demographics-and-backgrounds.png)
-
 As a result, we received 14 answers from the pilot survey and 48 answers from Amazon MTurk.
 
 _Demographics:_  
@@ -73,6 +71,8 @@ Participants who have not broken out from safety boundaries mostly triggered it 
 _Feedback_
 
 To understand what is the first thing that comes to people’s minds according to safety mechanisms, we asked them to list three positives and negatives. Then we coded them into a word cloud. The most frequent positive association will be **safe** and the most frequent negative will be **annoying**. This actively demonstrates that the safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques.
+
+Pilot Survey Open Ended-Questions
 
 1. rectangles -> room
 2. Likert scale +-
