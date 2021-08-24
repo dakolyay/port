@@ -60,6 +60,8 @@ _While using VR_
 
 Attitude towards SM
 
+![](/images/2021-08-24-10-31-22.png)
+
 After triggering the safety boundaries warning the 40% of respondents have left the safety area even if almost all of them (90%) have been warned about violating safety boundaries. The most common reason was the incompatibility of physical movements, hand motor skills and maintaining the body balance between virtuality and reality.
 
 During the breaking out, the most common application type was Gaming(90%) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. During the use of these applications, users have to strike a balance between two realities.
@@ -76,17 +78,16 @@ And the most frequent negative impression will be **annoying**. For negative sig
 
 This actively demonstrates that the safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques.
 
-![](/images/worldcloud.png)s
+![](/images/worldcloud.png)
 
 Pilot Survey Open Ended-Questions
 
 1. rectangles -> room
-2. Likert scale +-
-3. presentation
-4. open-ended questions
-5. method
-6. word cloud
-7. больше графиков
+2. presentation
+3. open-ended questions
+4. method
+5. word cloud
+6. больше графиков
 
 ### **What we learned:(Conclusion)**
 
