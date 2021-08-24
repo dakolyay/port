@@ -55,6 +55,10 @@ We ask people how frequently they reset their safety boundaries and what is the 
 
 A third of the respondents follow the instructions by removing all obstacles from within borders. 
 
+Almost no one ever turned off SM (2 participants)  but 22% have tried to change SMs' default settings. When asking what was the default setting they rather change, the majority agreed on "**Increase proximity sensitivity**", "**Grid appearance (floor and wall displayed)**". One of the reasons provided for change safety boundaries' appearance is:
+
+> I made the colors more noticeable and bright. I was careless in the beginning and I fell down stepping on a floor mat and my headset has got some cracks. It was a lucky day for me that I could escape with no injuries. So I was extra careful since then
+
 1. rectangles -> room
 2. Likert scale
 3. presentation
