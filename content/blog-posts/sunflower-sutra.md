@@ -40,7 +40,7 @@ The results are based on respondents, who completed the MTurk survey. 59% of the
 
 ![](/images/demo1.png)
 
-The proficiency of users was counted in months, therefore participants have on average a bit less than 2 years (21 months) of frequent user experience. The "newbies" are considered as frequent users only since June(2 months) when the "skilled" is in VR 5 years already(62 months). 
+The proficiency of users was counted in months, therefore participants have on average a bit less than 2 years (21 months) of frequent user experience. The "newbies" are considered as frequent users only since June(2 months) when the "skilled" is in VR 5 years already(62 months).
 
 According to the survey's result [Oculus Quest 2](https://www.oculus.com/quest-2/) is the most used VR headset (31%) followed by [Oculus Rift](https://www.oculus.com/) (27%) and [Oculus Quest 1](https://www.oculus.com/quest/features/) (16%) that respondents chose as the device they are more familiar with and besides, they turned out to be the most sold among the audience (16 customers of Oculus Quest 2 and Oculus Rift & 15 of Oculus Quest 1).
 
@@ -68,7 +68,7 @@ After triggering the safety boundaries warning the 40% of respondents have left 
 
 During the breaking out, the most common application type was Gaming(90%) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. During the use of these applications, users have to strike a balance between two realities.
 
-Participants who have not broken out from safety boundaries mostly triggered it with **"Breaking out of the boundary with the controller (or hand)"** and **"Approximating the boundary but not breaking out"**. Сuriously enough in most cases, they do stop their actions during VR if participants are too close to boundaries or made it show up because of the controller.
+Participants who have not broken out from safety boundaries mostly triggered it with **"Breaking out of the boundary with the controller (or hand)"** and **"Approximating the boundary but not breaking out"**. Сuriously enough in most cases, they do stop their actions during VR if participants are too close to boundaries or made it show up because of the controller. The most common reason to make people stay inside boundaries is fear. 
 
 _Feedback_
 
@@ -91,14 +91,14 @@ Pilot Survey Open Ended-Questions
 5. word cloud
 6. больше графиков
 
-### **What we learned:(Conclusion)**
+### **What we learned:**
 
-* 
+* Users do not reset safety boundaries unless they have to do so. The VR system and change of location forces users to declare a new border of safety mechanisms. Most obstacles will be removed during setting systems new boundaries.
+* People are not fully satisfied with the way default safety boundaries look like therefore they modify it. Although almost all of the participants are not interested in turning off SM completely. This shows that they have a positive attitude but small changes to improve SM will be perceived favourably.
+* Safety boundaries warning can not prevent "breaking out" if a person loses control of his body during a VR session.
+* Loss of control is correlated with the type of interaction between the user and the system. When there is a big difference in motion correction between virtual reality and reality participants unintentionally violate borders.
+* For people who trust safety boundaries and have a fear of getting hurt if they will not respect SM, it is enough to have a warning they trigger. 
 
 ### **Future Work**
 
 For future work, it could be useful to recruit more people in order to have more practical information. As an idea, further experiments could be arranged in real-time in which the participants will have to complete the VR game where they will need to avoid the barriers and obstacles.
-
-### **References**
-
-\[1\] Oculus 
