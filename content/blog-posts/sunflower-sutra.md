@@ -89,6 +89,7 @@ Pilot Survey Open Ended-Questions
 4. open-ended questions
 5. method
 6. word cloud
+7. больше графиков
 
 ### **What we learned:(Conclusion)**
 
