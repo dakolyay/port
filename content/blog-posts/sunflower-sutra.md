@@ -93,3 +93,5 @@ And the most frequent negative impression will be **annoying**. For negative sig
 ### **Future Work**
 
 For future work, it could be useful to recruit more people in order to have more practical information. As an idea, further experiments could be arranged in real-time in which the participants will have to complete the VR game where they will need to avoid the barriers and obstacles.
+
+![](/images/is.png)
