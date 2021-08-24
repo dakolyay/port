@@ -72,11 +72,12 @@ _Feedback_
 
 To understand what is the first thing that comes to people’s minds according to safety mechanisms, we asked them to give three positives and negatives. Then we coded them into a word cloud. The word cloud is one way to visualize text and its constituent words. After preprocessing and preparing the text for the cloud developing words are listed by their importance. The more often the word appears in the text the bigger and more noticeable it will be designed on the plot.
 
-The most common positive association with safety mechanisms will be "safe(safety)" followed by "helpful" (4) and "reliable"(4). Among all responses, it appears 20 times.  The most popular pair of two positive signs are safe and easy meanwhile for negative signs are risky and unproductive.
+The most common positive association with safety mechanisms will be "safe(safety)" that appears 20 times followed by "helpful" (4) and "reliable"(4). The most popular pair of two positive qualities are "safe" and "easy".
 
   
-  
- and the most frequent negative will be **annoying**. This actively demonstrates that the safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques.
+And the most frequent negative impression will be **annoying**.   For negative signs are risky and unproductive.
+
+This actively demonstrates that the safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques.
 
 ![](/images/worldcloud.png)
 
