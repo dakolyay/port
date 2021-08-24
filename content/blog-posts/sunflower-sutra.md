@@ -53,14 +53,20 @@ _Set up Safety Boundaries_
 
 We ask people how frequently they reset their safety boundaries and what is the reason to do so. The minority agreed that either they never change settings, or every time they reset boundaries when launching VR. The rest reported that they do reset boundaries occasionally, from time to time. The particular reasons for it are (1) a request from VR systems (52%) and (2) a change of the usual or last environment situation (43%). For these two reasons, we can say that users have to reconfigure their safety boundaries to start using VR headsets, and in most cases, their system forces them to do this.
 
-A third of the respondents follow the instructions by removing all obstacles from within borders. 
+A third of the respondents follow the instructions by removing all obstacles from within borders.
 
 Almost no one ever turned off SM (2 participants)  but 22% have tried to change SMs' default settings. When asking what was the default setting they rather change, the majority agreed on "**Increase proximity sensitivity**", "**Grid appearance (floor and wall displayed)**". One of the reasons provided for change safety boundaries' appearance is:
 
 > I made the colors more noticeable and bright. I was careless in the beginning and I fell down stepping on a floor mat and my headset has got some cracks. It was a lucky day for me that I could escape with no injuries. So I was extra careful since then
 
+_While using VR_
+
+Attitude towards SM
+
+After triggering the safety boundaries warning the 40% of respondents have left the safety area even if almost all of them (90%) have been warned about violating safety boundaries. The most common reason was the incompatibility of physical movements, hand motor skills and maintaining the body balance between virtuality and reality.
+
 1. rectangles -> room
-2. Likert scale
+2. Likert scale +-
 3. presentation
 4. open-ended questions
 5. method
