@@ -65,6 +65,15 @@ Attitude towards SM
 
 After triggering the safety boundaries warning the 40% of respondents have left the safety area even if almost all of them (90%) have been warned about violating safety boundaries. The most common reason was the incompatibility of physical movements, hand motor skills and maintaining the body balance between virtuality and reality.
 
+  
+During the breaking out, the most common application type was Gaming(90%) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. During the use of these applications, users have to strike a balance between two realities. 
+
+Participants who have not broken out from safety boundaries mostly triggered it with **"Breaking out of the boundary with the controller (or hand)"** and **"Approximating the boundary but not breaking out"**. Сuriously enough in most cases, they do stop their actions during VR if participants are too close to boundaries or made it show up because of the controller.
+
+_Feedback_
+
+To understand what is the first thing that comes to people’s minds according to safety mechanisms, we asked them to list three positives and negatives. Then we coded them into a word cloud. The most frequent positive association will be **safe** and the most frequent negative will be **annoying**. This actively demonstrates that the safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques.
+
 1. rectangles -> room
 2. Likert scale +-
 3. presentation
