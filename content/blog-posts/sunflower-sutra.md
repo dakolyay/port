@@ -70,7 +70,7 @@ During the breaking out, the most common application type was Gaming(90%) and in
 
 Participants who have not broken out from safety boundaries mostly triggered it with **"Breaking out of the boundary with the controller (or hand)"** and **"Approximating the boundary but not breaking out"**. Сuriously enough in most cases, they do stop their actions during VR if participants are too close to boundaries or made it show up because of the controller. The most common reason to make people stay inside boundaries is fear. 
 
-_Feedback_
+**_Feedback_**
 
 To understand what is the first thing that comes to people’s minds according to safety mechanisms, we asked them to give three positives and negatives. Then we coded them into a word cloud. The word cloud is one way to visualize text and its constituent words. After preprocessing and preparing the text for the cloud developing words are listed by their importance. The more often the word appears in the text the bigger and more noticeable it will be designed on the plot.
 
