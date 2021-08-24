@@ -72,6 +72,8 @@ _Feedback_
 
 To understand what is the first thing that comes to people’s minds according to safety mechanisms, we asked them to list three positives and negatives. Then we coded them into a word cloud. The most frequent positive association will be **safe** and the most frequent negative will be **annoying**. This actively demonstrates that the safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques.
 
+![](/images/worldcloud.png)
+
 Pilot Survey Open Ended-Questions
 
 1. rectangles -> room
