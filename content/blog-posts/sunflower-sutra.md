@@ -36,7 +36,7 @@ As a result, we received 14 answers from the pilot survey and 48 answers from Am
 
 As mentioned above our research concerned only a special narrow circle of society. We examined people who actively used virtual reality technologies, thereby claiming that they have sufficient experience to properly answer the questions.
 
-The results are based on respondents, who completed the MTurk survey. **59%** of the respondents were male. The respondents ranged in age from 20 to 63, with an average age of 32 (standard deviation 9.1). Among 48 participants, 73% declare themselves as **Gamers**(35), 17% as Developers(8) and 10% as Designers(5). The majority held a Bachelor's degree(56%).
+The results are based on respondents, who completed the MTurk survey. **59%** of the respondents were male. The respondents ranged in age from 20 to 63 years, with an average age of 32 (standard deviation 9.1 years). Among 48 participants, 73% declare themselves as **Gamers**(35), 17% as Developers(8) and 10% as Designers(5). The majority held a Bachelor's degree(56%).
 
 ![](/images/demo1.png)
 
@@ -62,13 +62,13 @@ Almost no one ever turned off SM (2 participants) but 22% have tried to change S
 
 ![](/images/2021-08-24-10-31-22.png)
 
-The vast majority positively speak out about SMs' boundaries. They _trust_ this mechanism which created a sense of trust between humans and machines. The warning fulfils its responsibility to keep the user in a safe area and warn them convincingly. 
+The vast majority positively speak out about SMs' boundaries. They _trust_ this mechanism which created a sense of trust between humans and machines. The warning fulfils its responsibility to keep the user in a safe area and warn them convincingly.
 
 After triggering the safety boundaries warning the 40% of respondents have left the safety area even if almost all of them (90%) have been warned about violating safety boundaries. The most common reason was the incompatibility of physical movements, hand motor skills and maintaining the body balance between virtuality and reality.
 
 During the breaking out, the most common application type was Gaming(90%) and in the list of applications, the dominant part is adventure shooter videogames (Half-Life: Alyx, Minecraft, Jurassic world, Zombie shooter, Gorn, Saber Fight VR, The Elder Scrolls V: Skyrim VR, Star Trek: Bridge Crew, Superhot VR, Vader Immortal: Episode I et cetera). All these games involve continuous movement and are action-heavy. During the use of these applications, users have to strike a balance between two realities.
 
-Participants who have not broken out from safety boundaries mostly triggered it with **"Breaking out of the boundary with the controller (or hand)"** and **"Approximating the boundary but not breaking out"**. Сuriously enough in most cases, they do stop their actions during VR if participants are too close to boundaries or made it show up because of the controller. The most common reason to make people stay inside boundaries is fear. 
+Participants who have not broken out from safety boundaries mostly triggered it with **"Breaking out of the boundary with the controller (or hand)"** and **"Approximating the boundary but not breaking out"**. Сuriously enough in most cases, they do stop their actions during VR if participants are too close to boundaries or made it show up because of the controller. The most common reason to make people stay inside boundaries is fear.
 
 **_Feedback_**
 
@@ -86,9 +86,9 @@ And the most frequent negative impression will be **annoying**. For negative sig
 * People are not fully satisfied with the way default safety boundaries look like therefore they modify it. Although almost all of the participants are not interested in turning off SM completely. This shows that they have a positive attitude but small changes to improve SM will be perceived favourably.
 * Safety boundaries warning can not prevent "breaking out" if a person loses control of his body during a VR session.
 * Loss of control is correlated with the type of interaction between the user and the system. When there is a big difference in motion correction between virtual reality and reality participants unintentionally violate borders.
-* For people who trust safety boundaries and have a fear of getting hurt if they will not respect SM, it is enough to have a warning they trigger. 
+* For people who trust safety boundaries and have a fear of getting hurt if they will not respect SM, it is enough to have a warning they trigger.
 * These technologies have the good credits they deserve because they meet the user's requirement to keep them safe. These technologies have received trust from the user.
-* The safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques. This format irritates them. 
+* The safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques. This format irritates them.
 
 ### **Future Work**
 
