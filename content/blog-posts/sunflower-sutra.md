@@ -74,7 +74,7 @@ Participants who have not broken out from safety boundaries mostly triggered it 
 
 **_Feedback_**
 
-To understand what is the first thing that comes to people’s minds according to safety mechanisms, we asked them to give three positives and negatives. Then we coded them into a word cloud. The word cloud is one way to visualize text and its constituent words. After preprocessing and preparing the text for the cloud developing words are listed by their importance. The more often the word appears in the text the bigger and more noticeable it will be designed on the plot.
+To understand what is the first thing that comes to people’s minds according to safety mechanisms, we asked them to give three positives and negatives. On these data, we used text analysis. To be exact, we coded them into a word cloud. The word cloud is one way to visualize text and its constituent words. After preprocessing and preparing the text for the cloud developing words are listed by their importance. The more often the word appears in the text the bigger and more noticeable it will be designed on the plot.
 
 The most common positive association with safety mechanisms will be "safe (safety)" that appears 20 times followed by "helpful" (4) and "reliable" (4). The most popular pair of two positive qualities are "safe" and "easy".
 
