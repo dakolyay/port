@@ -40,13 +40,13 @@ The results are based on respondents, who completed the MTurk survey. **59%** of
 
 ![](/images/demo1.png)
 
-The proficiency of users was counted in months, therefore participants have on average a bit less than 2 years (21 months) of frequent user experience. The "newbies" are considered as frequent users only since June (2 months) when the "skilled" is in VR 5 years already (62 months).
+The proficiency of users was counted in months, therefore participants have on average a bit less than 1.5 years (median 18 months) of frequent user experience. The "newbies" are considered as frequent users only since June (2 months) when the "skilled" is in VR 5 years already (62 months).
 
 According to the survey's result [**Oculus Quest 2**](https://www.oculus.com/quest-2/) is the most used VR headset (31%) followed by [Oculus Rift](https://www.oculus.com/) (27%) and [Oculus Quest 1](https://www.oculus.com/quest/features/) (16%) that respondents chose as the device they are more familiar with and besides, they turned out to be the most sold among the audience (16 customers of Oculus Quest 2 and Oculus Rift & 15 of Oculus Quest 1).
 
 ![](/images/2021-08-19-10-41-15.png)
 
-Generally, the respondents used a VR headset **10.6** hours per week (1,77 hours per day) in the range from 1 to 30 hours per week. The majority spend this time equally between standing and sitting positions (27%). Participants did not show any preference in the type of VR setting (room-scale, stationary) which they set with proportion 50/50 of all the time spent in VR.
+Generally, the respondents used a VR headset **10.6** hours per week (1,77 hours per day, median 10 hours) in the range from 1 to 30 hours per week. The majority spend this time equally between standing and sitting positions (27%). Participants did not show any preference in the type of VR setting (room-scale, stationary) which they set with proportion 50/50 of all the time spent in VR.
 
 **_Set up Safety Boundaries_**
 
