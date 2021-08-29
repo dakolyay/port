@@ -42,7 +42,7 @@ The results are based on respondents, who completed the MTurk survey. **59%** of
 
 The proficiency of users was counted in months, therefore participants have on average a bit less than 2 years (21 months) of frequent user experience. The "newbies" are considered as frequent users only since June (2 months) when the "skilled" is in VR 5 years already (62 months).
 
-According to the survey's result [Oculus Quest 2](https://www.oculus.com/quest-2/) is the most used VR headset (31%) followed by [Oculus Rift](https://www.oculus.com/) (27%) and [Oculus Quest 1](https://www.oculus.com/quest/features/) (16%) that respondents chose as the device they are more familiar with and besides, they turned out to be the most sold among the audience (16 customers of Oculus Quest 2 and Oculus Rift & 15 of Oculus Quest 1).
+According to the survey's result [**Oculus Quest 2**](https://www.oculus.com/quest-2/) is the most used VR headset (31%) followed by [Oculus Rift](https://www.oculus.com/) (27%) and [Oculus Quest 1](https://www.oculus.com/quest/features/) (16%) that respondents chose as the device they are more familiar with and besides, they turned out to be the most sold among the audience (16 customers of Oculus Quest 2 and Oculus Rift & 15 of Oculus Quest 1).
 
 ![](/images/2021-08-19-10-41-15.png)
 
@@ -74,7 +74,7 @@ Participants who have not broken out from safety boundaries mostly triggered it 
 
 To understand what is the first thing that comes to people’s minds according to safety mechanisms, we asked them to give three positives and negatives. Then we coded them into a word cloud. The word cloud is one way to visualize text and its constituent words. After preprocessing and preparing the text for the cloud developing words are listed by their importance. The more often the word appears in the text the bigger and more noticeable it will be designed on the plot.
 
-The most common positive association with safety mechanisms will be "safe(safety)" that appears 20 times followed by "helpful" (4) and "reliable"(4). The most popular pair of two positive qualities are "safe" and "easy".
+The most common positive association with safety mechanisms will be "safe (safety)" that appears 20 times followed by "helpful" (4) and "reliable" (4). The most popular pair of two positive qualities are "safe" and "easy".
 
 And the most frequent negative impression will be **annoying**. For negative signs are risky and unproductive.
 
