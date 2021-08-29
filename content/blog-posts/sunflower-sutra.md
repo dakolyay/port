@@ -36,7 +36,7 @@ As a result, we received 14 answers from the pilot survey and 48 answers from Am
 
 As mentioned above our research concerned only a special narrow circle of society. We examined people who actively used virtual reality technologies, thereby claiming that they have sufficient experience to properly answer the questions.
 
-The results are based on respondents, who completed the MTurk survey. **59%** of the respondents were male. The respondents ranged in age from 20 to 63 years, with an average age of 32 (standard deviation 9.1 years). Among 48 participants, 73% declare themselves as **Gamers**(35), 17% as Developers(8) and 10% as Designers(5). The majority held a Bachelor's degree(56%).
+The results are based on respondents, who completed the MTurk survey. **59%** of the respondents were male. The respondents ranged in age from 20 to 63 years, with an average age of 32 (standard deviation 9.1 years). Among 48 participants, 73% declare themselves as **Gamers** (35), 17% as Developers (8) and 10% as Designers (5). The majority held a Bachelor's degree (56%).
 
 ![](/images/demo1.png)
 
