@@ -87,7 +87,7 @@ And the most frequent negative impression will be **annoying**. For negative sig
 * Safety boundaries warning can not prevent "breaking out" if a person loses control of his body during a VR session.
 * Loss of control is correlated with the type of interaction between the user and the system. When there is a big difference in motion correction between virtual reality and reality participants unintentionally violate borders.
 * For people who trust safety boundaries and have a fear of getting hurt if they will not respect SM, it is enough to have a warning they trigger. 
-* These technologies have the good credibility they deserve because they meet the user's requirement to keep them safe. These technologies have received trust from the user.
+* These technologies have the good credits they deserve because they meet the user's requirement to keep them safe. These technologies have received trust from the user.
 * The safety mechanism does its work correctly and users do not complain about technical shortcomings, but about the format of the implementation of these techniques. This format irritates them. 
 
 ### **Future Work**
