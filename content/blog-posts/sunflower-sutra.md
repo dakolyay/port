@@ -62,7 +62,7 @@ Almost no one ever turned off SM (2 participants) but 22% have tried to change S
 
 ![](/images/2021-08-24-10-31-22.png)
 
-The vast majority positively speak out about SMs' boundaries. They _trust_ this mechanism which created a sense of trust between humans and machines. The warning fulfils its responsibility to keep the user in a safe area and warn them convincingly.
+The vast majority positively speak out about SMs' boundaries. They _trust_ this mechanism which created a sense of trust between humans and machines. The warning fulfils its responsibility to keep the user in a safe area and warn them convincingly (63% and 73% of participants think warnings are sufficient to keep them alert and safe).
 
 After triggering the safety boundaries warning the 40% of respondents have left the safety area even if almost all of them (90%) have been warned about violating safety boundaries. The most common reason was the incompatibility of physical movements, hand motor skills and maintaining the body balance between virtuality and reality.
 
