@@ -24,11 +24,11 @@ It was decided to identify the key points and consider the problem in detail. Ho
    * Customizing the VR safety boundaries (n=2)
    * Modify safety boundaries' default settings (n=3)
 3. **While using VR**(n=22):
-   * Attitude towards safety mechanism(n=9). This section has two 5-point scale questions about the frequency of notification and the frequency of any kind of safety boundaries violation, seven 5-point Likert scale questions ("strongly disagree" - "strongly agree") about safety mechanisms' performance from participants view.
-   * Triggering the safety boundary(n=4). Questions of this section relate to how participants triggered safety boundaries warnings and what was their actions after it.
-   * When breaking out happens(n=6). We are interested to know did triggering boundaries of SM led to _breaking out_ experience. If it was a case, what was the overall situation and what were the reasons and settings during it?
-   * Inside the safety boundary(n=3). On the contrary, If there were not any _breaking out_ experiences, we are curious to know what made participants stay inside safety boundaries.
-4. **Personal feedback on the VR safety boundaries**(n=3).
+   * Attitude towards safety mechanism (n=9). This section has two 5-point scale questions about the frequency of notification and the frequency of any kind of safety boundaries violation, seven 5-point Likert scale questions ("strongly disagree" - "strongly agree") about safety mechanisms' performance from participants view.
+   * Triggering the safety boundary (n=4). Questions of this section relate to how participants triggered safety boundaries warnings and what was their actions after it.
+   * When breaking out happens (n=6). We are interested to know did triggering boundaries of SM led to _breaking out_ experience. If it was a case, what was the overall situation and what were the reasons and settings during it?
+   * Inside the safety boundary (n=3). On the contrary, If there were not any _breaking out_ experiences, we are curious to know what made participants stay inside safety boundaries.
+4. **Personal feedback on the VR safety boundaries** (n=3).
 
 As a result, we received 14 answers from the pilot survey and 48 answers from Amazon MTurk.
 
