@@ -46,7 +46,7 @@ According to the survey's result [Oculus Quest 2](https://www.oculus.com/quest-2
 
 ![](/images/2021-08-19-10-41-15.png)
 
-Generally, the respondents used a VR headset **10.6** hours per week (1,77 per day) in the range from 1 to 30 hours per week. The majority spend this time equally between standing and sitting positions (27%). Participants did not show any preference in the type of VR setting (room-scale, stationary) which they set with proportion 50/50 of all the time spent in VR.
+Generally, the respondents used a VR headset **10.6** hours per week (1,77 hours per day) in the range from 1 to 30 hours per week. The majority spend this time equally between standing and sitting positions (27%). Participants did not show any preference in the type of VR setting (room-scale, stationary) which they set with proportion 50/50 of all the time spent in VR.
 
 **_Set up Safety Boundaries_**
 
