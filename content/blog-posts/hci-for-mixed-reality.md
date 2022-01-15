@@ -1,7 +1,6 @@
 +++
 author = "Dariya Mukhatova"
 date = ""
-draft = true
 hero = "/images/mavenhomepage.png"
 title = "HCI for Mixed Reality"
 type = "blog"
