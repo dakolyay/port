@@ -12,20 +12,26 @@ This blog was made to follow the ideas, thought and reactions that I am having w
 
 cover picture rights belong to Udhaya Chandran in [https://dribbble.com](https://dribbble.com "https://dribbble.com").
 
-23\.11.2021
+Lab Homework 1: Setup Blog (5 Points)
 
-30\.11.2021
+Lab Homework 2: Setup Unity (10 Points):
 
-07\.12.2021
+Lab Homework 3: Unity Roll-A-Ball (15 Points)
 
-14\.12.2021
+Lab Homework 4: VR Locomotion Pitch (15 Points)
 
-04\.01.2022
+• Give a 5 Minute "Elevator Pitch" of ONE locomotion technique that you want to implement as your project. 
 
-11\.01.2022
+• Use any type of visuals and rapid prototyping technique (remember your HCI lectures) to show the audience how your locomotion technique should work 
 
-18\.01.2022
+• Upload the slides of your pitch and reflect upon your idea
 
-25\.01.2022
+Lab Homework 5: VR Locomotion Implementation (30 Points)
 
-01\.02.2022
+Class Homework 1: Hyper Reality (10 Points):
+
+Class Homework 3: Sketch and present 3 ideas for Locomotion in VR (15 Points):
+
+Class Homework 4: Evaluate your Locomotion Technique (15 Points):
+
+Class Homework 5: Final Presentation (15 Points):
