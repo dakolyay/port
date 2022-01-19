@@ -12,6 +12,8 @@ This blog was made to follow the ideas, thought and reactions that I am having w
 
 cover picture rights belong to Udhaya Chandran in [https://dribbble.com](https://dribbble.com "https://dribbble.com").
 
+ff
+
 Lab Homework 1: Setup Blog (5 Points)
 
 Lab Homework 2: Setup Unity (10 Points):
