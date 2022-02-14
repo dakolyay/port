@@ -26,6 +26,8 @@ After successfull downloading you may like to launch the Unity Hub for the first
 
 By pressing open button we will, of course, have a window with Unity Terms of Service with all the important rules and terms for better use of Unity.  ![](/images/2022-02-14-16-37-57.png)
 
-Of course we will read everything carefully and decided neither agree or disagree. To go for next step and setup successfully unity 
+Of course we will read everything carefully and decided neither agree or disagree. To go for next step and successfully setup Unity we will have to agree with Terms of Service. 
+
+![](/images/2022-02-14-16-38-08.png) 
 
 **Step 4.** After third step the window with dmg file and Application folder with appear. The installation is pretty easy in this step. All you have to do is to drag and drop Unity Hub icon to Application icon.
