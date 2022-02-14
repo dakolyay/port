@@ -57,3 +57,13 @@ _If you will work with Oculus Quest you have to put the check on Android Build S
 Time to time you will have to code, it is already time to accept this. Unity Hub proposes to download Visual Studio as IDE but you can use whatever IDE you want to. You can find out different options[ here](https://www.dunebook.com/best-unity-ide/).
 
 ![](/images/2022-02-14-16-45-48.png) 
+
+**Step 7.**
+
+Now you can work with projects! You can either create a new project or you can open already existed. You can create 2D, 3D, 3D with extras and other types of projects. 
+
+![](/images/2022-02-14-16-46-34.png)
+
+##### Enjoy your time with Unity!
+
+![](/images/sc1907_the-end_1422417179_1200.jpg)
