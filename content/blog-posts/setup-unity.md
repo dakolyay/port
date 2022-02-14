@@ -31,3 +31,11 @@ Of course we will read everything carefully and decided neither agree or disagre
 ![](/images/2022-02-14-16-38-08.png) 
 
 **Step 4.** After third step the window with dmg file and Application folder with appear. The installation is pretty easy in this step. All you have to do is to drag and drop Unity Hub icon to Application icon.
+
+![](/images/2022-02-14-16-38-51.png)
+
+After dropping to Application icon, Unity Hub will appear in Application folder and you can find it in Launchpad and Finder. The setting process is almost over! 
+
+If you have done everything well, now you may delete dmg file you have downloaded before because we will not need it anymore. 
+
+![](/images/2022-02-14-16-41-35.png)
