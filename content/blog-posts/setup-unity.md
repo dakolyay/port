@@ -24,6 +24,8 @@ After successfull downloading you may like to launch the Unity Hub for the first
 
 **Step 3.**
 
-After second step the window with dmg file and Application folder with appear. The installation is pretty easy in this step. All you have to do is to drag and drop Unity Hub icon to Application icon. 
 
-![](/images/2022-02-14-16-38-51.png)
+
+
+**Step 4.**
+After second step the window with dmg file and Application folder with appear. The installation is pretty easy in this step. All you have to do is to drag and drop Unity Hub icon to Application icon.
