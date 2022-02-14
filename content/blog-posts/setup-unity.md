@@ -30,7 +30,9 @@ Of course we will read everything carefully and decided neither agree or disagre
 
 ![](/images/2022-02-14-16-38-08.png) 
 
-**Step 4.** After third step the window with dmg file and Application folder with appear. The installation is pretty easy in this step. All you have to do is to drag and drop Unity Hub icon to Application icon.
+**Step 4.** 
+
+After third step the window with dmg file and Application folder with appear. The installation is pretty easy in this step. All you have to do is to drag and drop Unity Hub icon to Application icon.
 
 ![](/images/2022-02-14-16-38-51.png)
 
@@ -39,3 +41,9 @@ After dropping to Application icon, Unity Hub will appear in Application folder 
 If you have done everything well, now you may delete dmg file you have downloaded before because we will not need it anymore. 
 
 ![](/images/2022-02-14-16-41-35.png)
+
+**Step 5.** 
+
+YAY! Now if you will launch the application you will see this window. This is Welcome window and you will have to either create a new account or sign in. In my case, I already have an account so I will directly sign in. Thankfully your account will be connected to your email address so if you will forget your password, like me, you can always reset it. 
+
+![](/images/2022-02-14-16-42-48.png)
