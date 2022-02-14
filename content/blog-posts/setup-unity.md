@@ -1,7 +1,7 @@
 +++
 author = "Dariya Mukhatova"
 date = ""
-hero = "/images/unity_2021-svg.png"
+hero = "/images/channels4_profile.jpg"
 title = "Setup Unity"
 type = "blog"
 
