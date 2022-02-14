@@ -47,3 +47,13 @@ If you have done everything well, now you may delete dmg file you have downloade
 YAY! Now if you will launch the application you will see this window. This is Welcome window and you will have to either create a new account or sign in. In my case, I already have an account so I will directly sign in. Thankfully your account will be connected to your email address so if you will forget your password, like me, you can always reset it. 
 
 ![](/images/2022-02-14-16-42-48.png)
+
+**Step 6.**
+
+Soon you will be able to create and work with Unity but you have to intall needed resources. 
+
+_If you will work with Oculus Quest you have to put the check on Android Build Support._ 
+
+Time to time you will have to code, it is already time to accept this. Unity Hub proposes to download Visual Studio as IDE but you can use whatever IDE you want to. You can find out different options[ here](https://www.dunebook.com/best-unity-ide/).
+
+![](/images/2022-02-14-16-45-48.png) 
