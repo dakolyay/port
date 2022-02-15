@@ -1,7 +1,7 @@
 +++
 author = "Dariya Mukhatova"
 date = ""
-hero = ""
+hero = "/images/a620155f-2fba-4515-a4d0-bb79cdbb54c6_sutherland-02-png.jpeg"
 title = "Ultimate Display "
 type = "blog"
 
