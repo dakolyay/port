@@ -6,7 +6,7 @@ title = "Evaluation the technique"
 type = "blog"
 
 +++
-Technique evaluation.
+#### Locomotion Technique evaluation.
 
 In this section, we will look at the evaluation process of the locomotion technique. In total, the evaluation will involve me and two other test-takers.
 
