@@ -1,6 +1,7 @@
 +++
 author = "Dariya Mukhatova"
 date = ""
+draft = true
 hero = "/images/75036ca28a43caf66b984a250bd1b39b.png"
 title = "HCI for Mixed Reality"
 type = "blog"
