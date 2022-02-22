@@ -1,6 +1,7 @@
 +++
 author = "Dariya Mukhatova"
 date = 2019-08-03T07:00:00Z
+draft = true
 hero = "/images/ik_2.jpeg"
 title = "Synthesizing and controlling character animation"
 type = "blog"
