@@ -1,7 +1,7 @@
 +++
 author = ""
 date = ""
-hero = "/images/2022-02-24-19-03-30.png"
+hero = "/images/2022-02-24-19-27-45.png"
 title = "Final Presentation"
 type = "blog"
 
