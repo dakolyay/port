@@ -2,7 +2,7 @@
 author = "Dariya Mukhatova"
 date = ""
 hero = ""
-title = "Teach Me How to Drive"
+title = "Locomotion Technique Implementation"
 type = "blog"
 
 +++
