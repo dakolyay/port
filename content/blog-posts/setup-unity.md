@@ -2,7 +2,7 @@
 author = "Dariya Mukhatova"
 date = ""
 hero = "/images/channels4_profile.jpg"
-title = "Setup Unity"
+title = "Unity Setup"
 type = "blog"
 
 +++
