@@ -40,7 +40,7 @@ Lately, you can try different propositions and preview them. I prefer this theme
 
 **Step 6.**
 
-Then there are configuration settings where you will have to attach a new website as your git project. After adding it to Forestry we can use Forestry editor. First you have to chose your git provider and then you can name your repository. 
+Then there are configuration settings where you will have to attach a new website as your git project. After adding it to Forestry we can use Forestry editor. First you have to chose your git provider and then you can name your repository.
 
 ![](/images/2022-02-24-18-25-11.png)![](/images/2022-02-24-18-25-28.png)
 
@@ -50,7 +50,7 @@ So this is it. This is the main page where you will work with your future websit
 
 ![](/images/2022-02-24-18-26-51.png)
 
-It requires some settings before work tho. But you can always change them in the main settings. 
+It requires some settings before work tho. But you can always change them in the main settings.
 
 ![](/images/2022-02-24-14-00-01.png)
 
@@ -83,26 +83,28 @@ Since we have already created our website we will have to connect it to the Netl
 
 Here you have to configure your git profile to access your git project(website) and you are ready to deploy.  All required steps are shown below.
 
-//
+![](/images/2022-02-24-14-00-46.png)![](/images/2022-02-24-14-07-39.png)
 
-//
+After you have added your project to deploy you will see it on a platform like this:
 
-After you have added your project to deploy you will see it on a platform like this: 
-
-//
+![](/images/2022-02-24-14-07-50.png)
 
 It will take some seconds to launch your project in deployment. After you can access it by pressing on it.
 
-//
+![](/images/2022-02-24-14-11-00.png)
+
+Since the name for the website is auto-given we can also change it in _Domain settings_. 
+
+![](/images/2022-02-24-18-37-26.png)
 
 We can observe the deployment in Netlify by following the deployment details.
 
-//
+![](/images/2022-02-24-15-47-57.png)
 
 TA-DAA!
 
 Now you can see your website and all the editing you have done. For now, there is not a lot of my own content. You can buy a domain or set up already one that you have and change the name of your site. As well you can Secure your site with HTTPS.
 
-So here is the template that appear where I build my website:
+So after adding some content my website does look like this:
 
-//
+![](/images/2022-02-24-18-33-15.png)
