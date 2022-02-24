@@ -11,4 +11,4 @@ contact_info:
 type: ''
 
 ---
-### This site was created to blog projects done by Dariya Mukhatova.
+### This site was created to blog projects done by Dariya Mukhatova for Human-Computer Interaction for Mixed Reality course for 2021-2022.
