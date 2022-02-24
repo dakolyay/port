@@ -2,7 +2,7 @@
 author = "Dariya Mukhatova"
 date = ""
 hero = ""
-title = "God loves the trinity"
+title = "3 ideas of VR Locomotion Technique"
 type = "blog"
 
 +++
