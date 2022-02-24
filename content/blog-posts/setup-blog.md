@@ -1,7 +1,7 @@
 +++
 author = "Dariya Mukhatova"
 date = ""
-hero = ""
+hero = "/images/hero.jpg"
 title = "Blog Setup"
 type = "blog"
 
