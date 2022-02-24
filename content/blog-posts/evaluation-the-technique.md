@@ -1,7 +1,7 @@
 +++
 author = "Dariya Mukhatova"
 date = ""
-hero = ""
+hero = "/images/evaluation-fournisseur-min.jpg"
 title = "Evaluation the technique"
 type = "blog"
 
