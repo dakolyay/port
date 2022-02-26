@@ -1,7 +1,7 @@
 +++
 author = "Dariya Mukhatova"
 date = ""
-hero = ""
+hero = "/images/pitch-e1505229139452.jpg"
 title = "VR Locomotion Pitch"
 type = "blog"
 
