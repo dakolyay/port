@@ -1,7 +1,7 @@
 +++
 author = "Dariya Mukhatova"
 date = ""
-hero = ""
+hero = "/images/three-706895_960_720.jpg"
 title = "3 ideas of VR Locomotion Technique"
 type = "blog"
 
