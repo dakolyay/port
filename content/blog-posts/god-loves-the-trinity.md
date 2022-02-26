@@ -34,4 +34,4 @@ Of course, the name may shock you, but in fact, it is a completely harmless form
 
 ![](/images/174429453_e8d499ad51_b.jpg)
 
-This technique will be a bit like teleportation because dodge users will throw one leg forward as far as they can and drag the other leg to stand on two legs. This will of course will be long because the clown will only move by performing stepping forward with one leg and another. But the main metric here is fun. I want to add a sense of balance, that the longer you stand on two legs the more you stagger. This will make the users move forward faster which will be more exciting. 
+This technique will be a bit like teleportation because users will throw one leg forward as far as they can and drag the other leg to stand on two legs. This will of course will be long because the clown will only move by performing stepping forward with one leg and another. But the main metric here is fun. I want to add a sense of balance, that the longer you stand on two legs the more you stagger. This will make the users move forward faster which will be more exciting. 
