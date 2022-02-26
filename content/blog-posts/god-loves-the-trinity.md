@@ -35,3 +35,9 @@ Of course, the name may shock you, but in fact, it is a completely harmless form
 ![](/images/174429453_e8d499ad51_b.jpg)
 
 This technique will be a bit like teleportation because users will throw one leg forward as far as they can and drag the other leg to stand on two legs. This will of course will be long because the clown will only move by performing stepping forward with one leg and another. But the main metric here is fun. I want to add a sense of balance, that the longer you stand on two legs the more you stagger. This will make the users move forward faster which will be more exciting. 
+
+#### Flying boots
+
+This locomotion technique idea came to me itself while I was visiting my best friend and her family. Since she is half English her family had an English channel on TV.  I paid zero attention to the TV during the dinner we had until the time [**this**](https://www.youtube.com/watch?v=e9RMybk7jsY) advertising came out. In the advertising, there is Aunt Helga who puts on reactive boots that allow her to fly. But we also want to move forward.
+
+For this locomotion technique, users could move forward with flying boots. Same as Aunt Helga, we will use the left boot to fly and the right boot which is placed in position so jet gas will go behind allowing us to move ahead. 
