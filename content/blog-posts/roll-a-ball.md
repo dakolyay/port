@@ -8,7 +8,7 @@ type = "blog"
 +++
 There is a really goodly explained tutorial for beginners who just started to work with Unity. It is called [**Roll a Ball**](https://learn.unity.com/project/roll-a-ball) where you will have to create a mini-game with the ball in the closed territory and collect points by hitting the collectibles.
 
-I found this tutorial quite easy to do and well explained. In this blog post, I will summarize the most important parts of Roll A Ball implementation.
+I found this tutorial quite easy to do and well explained. In this blog post, I will summarize the most important parts of Roll A Ball's implementation.
 
 First of all, we have to create a new project. To do so we launch Unity and press the _New_ button. You can always continue with the existing project by adding it to the projects window in Unity.
 
@@ -149,3 +149,16 @@ But it is not only cubes that collide with the ball. In this case, walls and gro
 PickUp(3) is the third duplicated PickUp item that has a custom tag PickUp. 
 
 And now every time when Player will collide with GameObject that has a special tag "PickUp", this GameObject will disappear. 
+
+In the end, to make the game more playable it will be good to add some UI. We want to have a counter for the point we have gained. To do so we have to plus up the point after every collision with cubes: 
+
+    void SetCountText()
+    	{
+    		countText.text = "Count: " + count.ToString();
+    
+    		if (count >= 12) 
+    		{
+                        // Set the text value of your 'winText'
+                        winTextObject.SetActive(true);
+    		}
+    	}
