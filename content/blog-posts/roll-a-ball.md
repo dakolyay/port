@@ -6,15 +6,15 @@ title = "Roll-A-Ball"
 type = "blog"
 
 +++
-There is a really goodly explained tutorial for beginners who just started to work with Unity. It is called [**Roll a Ball**](https://learn.unity.com/project/roll-a-ball) where you will have to create a mini-game with the ball in the closed territory and collect points by hitting the collectibles. 
+There is a really goodly explained tutorial for beginners who just started to work with Unity. It is called [**Roll a Ball**](https://learn.unity.com/project/roll-a-ball) where you will have to create a mini-game with the ball in the closed territory and collect points by hitting the collectibles.
 
-I found this tutorial quite easy to do and well explained. In this blog post, I will summarize the most important parts of Roll A Ball implementation. 
+I found this tutorial quite easy to do and well explained. In this blog post, I will summarize the most important parts of Roll A Ball implementation.
 
 First of all, we have to create a new project. To do so we launch Unity and press the _New_ button. You can always continue with the existing project by adding it to the projects window in Unity.
 
 ![](/images/screenshot-2022-02-27-134851.png)
 
-For this project, we will choose a 3D project because we would like to have a game in a 3D envirolment.   
+For this project, we will choose a 3D project because we would like to have a game in a 3D envirolment.  
 ![](/images/screenshot-2022-02-27-135158.png)
 
 First thing that we will have to do when we will launch our just created project is to create a scene. There are different ways to do so and this is one of them:
@@ -37,18 +37,18 @@ There are some modifications we still have to do:
 * Reset the transform field to make position equal to (0,0,0):
 
   ![](/images/7-5.png)
-* Make the plane big since we will need enough space to roll our ball: 
+* Make the plane big since we will need enough space to roll our ball:
 
   ![](/images/8.png)
 * It will be also good to distinguish the plane from anything else from the scene and make it more custom. So we will add a material to the plane by choosing Materials in Assets in the menubar.
 
-  ![](/images/10d.png)Now we can edit the material how we want and assign it to the plane by dragging and dropping it. 
+  ![](/images/10d.png)Now we can edit the material how we want and assign it to the plane by dragging and dropping it.
 
   ![](/images/11.png)![](/images/12.png)
 
   Now we have our custom plane and we would like to place an actual ball on it.
 
-  Since the ball it is a sphere we can add it to our scene with the same process as with plane: 
+  Since the ball it is a sphere we can add it to our scene with the same process as with plane:
 
   ![](/images/13.png)
 
@@ -62,3 +62,9 @@ There are some modifications we still have to do:
   Next, we will create new material for a ball and attach it to the Player.
 
   ![](/images/16.png)
+
+  We want to play with the ball and control it. To do so we will have to go to Package Manager and find Input System. So we will apply the keyboard input to control the ball's movement on the plane. 
+
+  ![](/images/16-5.png)![](/images/17.png)After the installation and rebooting Unity, we will go to the Player's inspector field and add a new component. Adding new components to our GameObjects allows us to customize and modify them for our needs. 
+
+  ![](/images/18.png)
