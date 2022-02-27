@@ -37,3 +37,6 @@ There are some modifications we still have to do:
 * Reset the transform field to make position equal to (0,0,0):
 
   ![](/images/7-5.png)
+* Make the plane big since we will need enough space to roll our ball: 
+
+  ![](/images/8.png)
