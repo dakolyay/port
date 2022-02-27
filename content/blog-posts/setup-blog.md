@@ -6,7 +6,7 @@ title = "Blog Setup"
 type = "blog"
 
 +++
-To keep track and post all work done I have created a blog. This blog was done with the use of [Forestry.io](https://forestry.io), [Github](https://github.com), [Netlify](https://www.netlify.com), and [Gridsome](https://gridsome.org).
+To keep track and post all work done I have created a blog. This blog was done with the use of [**Forestry.io**](https://forestry.io), [**Github**](https://github.com), [**Netlify**](https://www.netlify.com), and [**Hugo**](https://gohugo.io).
 
 **Step 1.**
 
@@ -93,7 +93,7 @@ It will take some seconds to launch your project in deployment. After you can ac
 
 ![](/images/2022-02-24-14-11-00.png)
 
-Since the name for the website is auto-given we can also change it in _Domain settings_. 
+Since the name for the website is auto-given we can also change it in _Domain settings_.
 
 ![](/images/2022-02-24-18-37-26.png)
 
