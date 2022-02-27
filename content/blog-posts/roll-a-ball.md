@@ -47,3 +47,16 @@ There are some modifications we still have to do:
   ![](/images/11.png)![](/images/12.png)
 
   Now we have our custom plane and we would like to place an actual ball on it.
+
+  Since the ball it is a sphere we can add it to our scene with the same process as with plane: 
+
+  ![](/images/13.png)
+
+  Voila! We can see the ball on the plane. For now, it has initial settings which we will further change:
+
+  ![](/images/14.png)  
+  ![](/images/15.png)
+
+  fdlfkd
+
+  ![](/images/16.png)
