@@ -108,4 +108,20 @@ Now we need to connect this to our FixedUpdate function:
             rb.AddForce(movement*speed);
         }
 
-We declared the variable speed as a speed for a ball. 
+We declared the variable speed as a speed for a ball. Now we can move our ball in a different direction with the keyboard. 
+
+Later, we will modify the camera so we will follow the ball movement. In the bigging camera can not see watch so we will change its transform field in Inspector for Main Camera. 
+
+![](/images/25.png)We will define the new position as a third-person camera. But to follow the ball during the game we will have to add a new script CameraController. In the CameraController it is important to declare one public variable. 
+
+    public GameObject player;
+
+Why is that? Because we would like to follow our Player(ball) any time when it moves. Because variable type is public we can directly drag and drop Player GameObject to CameraController Component:
+
+![](/images/28.png)
+
+But we still do not have a proper game installation. First thing first, there should be 4 walls. We need them to have a limitation for our balls. Normally, the ball will reach the wall and hit on it.
+
+![](/images/29.png)It can be done pretty fast by creating one proper wall and duplicating it three times. After some operation with positioning walls in their right place we will have this pretty wall and ball:
+
+![](/images/30.png)
