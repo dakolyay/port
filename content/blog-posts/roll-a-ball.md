@@ -143,4 +143,4 @@ Every time the ball hits the cube, the cube should disappear and points should b
                 other.gameObject.SetActive(false);
             }
         }
- 
+  But it is not 
