@@ -1,7 +1,7 @@
 +++
 author = "Dariya Mukhatova"
 date = ""
-hero = ""
+hero = "/images/9c1b8f97-0af3-466d-889c-23dc08fdc49e.jpeg"
 title = "Roll-A-Ball"
 type = "blog"
 
@@ -90,4 +90,4 @@ In order to control and move the ball, we will create a script. In Unity, we wil
 
 ![](/images/24.png) 
 
-We will create a void function OnMove where we will add force to the rigid body 
+We will create a void function OnMove where we will add force to the rigid body
