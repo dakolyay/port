@@ -132,6 +132,6 @@ Later on, we will need some collection with whom we can interact to gain points.
 
 ![](/images/32.png)
 
-![](/images/33.png)
+![](/images/33.png)The biggest plus of using the Prefab is the fact that we can change any feature in Prefab and it will automatically change the same feature in all instances of that Prefab. 
 
 Every time the ball hits the cube, the cube should disappear and points should be increased. 
