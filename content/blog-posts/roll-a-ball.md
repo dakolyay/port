@@ -108,11 +108,11 @@ Now we need to connect this to our FixedUpdate function:
             rb.AddForce(movement*speed);
         }
 
-We declared the variable speed as a speed for a ball. Now we can move our ball in a different direction with the keyboard. 
+We declared the variable speed as a speed for a ball. Now we can move our ball in a different direction with the keyboard.
 
-Later, we will modify the camera so we will follow the ball movement. In the bigging camera can not see watch so we will change its transform field in Inspector for Main Camera. 
+Later, we will modify the camera so we will follow the ball movement. In the bigging camera can not see watch so we will change its transform field in Inspector for Main Camera.
 
-![](/images/25.png)We will define the new position as a third-person camera. But to follow the ball during the game we will have to add a new script CameraController. In the CameraController it is important to declare one public variable. 
+![](/images/25.png)We will define the new position as a third-person camera. But to follow the ball during the game we will have to add a new script CameraController. In the CameraController it is important to declare one public variable.
 
     public GameObject player;
 
@@ -132,9 +132,9 @@ Later on, we will need some collection with whom we can interact to gain points.
 
 ![](/images/32.png)
 
-![](/images/33.png)The biggest plus of using the Prefab is the fact that we can change any feature in Prefab and it will automatically change the same feature in all instances of that Prefab. 
+![](/images/33.png)The biggest plus of using the Prefab is the fact that we can change any feature in Prefab and it will automatically change the same feature in all instances of that Prefab.
 
-Every time the ball hits the cube, the cube should disappear and points should be increased. So we will use the OnTriggerEnter function where every time Player will collide with GameObject it will disappear. 
+Every time the ball hits the cube, the cube should disappear and points should be increased. So we will use the OnTriggerEnter function where every time Player will collide with GameObject it will disappear.
 
     private void OnTriggerEnter(Collider other)
         {
@@ -143,4 +143,9 @@ Every time the ball hits the cube, the cube should disappear and points should b
                 other.gameObject.SetActive(false);
             }
         }
-  But it is not 
+
+But it is not only cubes that collide with the ball. In this case, walls and ground should also disappear. But in the 3rd line of code above we have added a Tag. Tag is very useful in terms of identifying the GameObjects. Moreover, we can assign a Tag for Prefab. As I wrote above, all the instances of Prefab will inherit from Prefab. After creating a custom tag in Inspector we can assign it to Prefab so:![](/images/34.png) 
+
+PickUp(3) is the third duplicated PickUp item that has a custom tag PickUp. 
+
+And now every time when Player will collide with GameObject that has a special tag "PickUp", this GameObject will disappear. 
