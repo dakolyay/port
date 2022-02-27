@@ -144,13 +144,13 @@ Every time the ball hits the cube, the cube should disappear and points should b
             }
         }
 
-But it is not only cubes that collide with the ball. In this case, walls and ground should also disappear. But in the 3rd line of code above we have added a Tag. Tag is very useful in terms of identifying the GameObjects. Moreover, we can assign a Tag for Prefab. As I wrote above, all the instances of Prefab will inherit from Prefab. After creating a custom tag in Inspector we can assign it to Prefab so:![](/images/34.png) 
+But it is not only cubes that collide with the ball. In this case, walls and ground should also disappear. But in the 3rd line of code above we have added a Tag. Tag is very useful in terms of identifying the GameObjects. Moreover, we can assign a Tag for Prefab. As I wrote above, all the instances of Prefab will inherit from Prefab. After creating a custom tag in Inspector we can assign it to Prefab so:![](/images/34.png)
 
-PickUp(3) is the third duplicated PickUp item that has a custom tag PickUp. 
+PickUp(3) is the third duplicated PickUp item that has a custom tag PickUp.
 
-And now every time when Player will collide with GameObject that has a special tag "PickUp", this GameObject will disappear. 
+And now every time when Player will collide with GameObject that has a special tag "PickUp", this GameObject will disappear.
 
-In the end, to make the game more playable it will be good to add some UI. We want to have a counter for the point we have gained. To do so we have to plus up the point after every collision with cubes: 
+In the end, to make the game more playable it will be good to add some UI. We want to have a counter for the point we have gained. To do so we have to plus up the point after every collision with cubes:
 
     void SetCountText()
     	{
@@ -162,4 +162,5 @@ In the end, to make the game more playable it will be good to add some UI. We wa
                         winTextObject.SetActive(true);
     		}
     	}
- fdkjgsdf
+
+Hopefully, there is a special element in Unity that we will use next. For displaying the counter let's add Text-TextMest Pro in UI options. It can be easily found during the addition to Hierarchy. 
