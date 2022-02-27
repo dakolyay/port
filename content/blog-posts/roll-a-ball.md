@@ -68,3 +68,5 @@ There are some modifications we still have to do:
   ![](/images/16-5.png)![](/images/17.png)After the installation and rebooting Unity, we will go to the Player's inspector field and add a new component. Adding new components to our GameObjects allows us to customize and modify them for our needs. 
 
   ![](/images/18.png)
+
+  It is important to change your building settings if you are thinking to work on Windows we have to change the Architecture to x86_64 by following File and Build Settings. 
