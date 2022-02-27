@@ -8,7 +8,7 @@ type = "blog"
 +++
 ### Hyperreality
 
-Have you ever wondered what reality will look like with the rapid use of technology? How we will be living in a few decades? If so, we could see [one variation](https://www.youtube.com/watch?v=YJg02ivYzSs) of such an idea thanks to a YouTube video. You can see how different information just jumps out at you without giving you a chance to look at reality.
+Have you ever wondered what reality will look like with the rapid use of technology? How we will be living in a few decades? If so, we could see [**one variation**](https://www.youtube.com/watch?v=YJg02ivYzSs) of such an idea thanks to a YouTube video. You can see how different information just jumps out at you without giving you a chance to look at reality.
 
 Maybe this will be our world in the future and we could get used to it, but this kind of mixed reality causes some fear.
 
