@@ -88,6 +88,14 @@ In order to control and move the ball, we will create a script. In Unity, we wil
 
 ![](/images/22.png)![](/images/23.png)For now, there is not much code in PlayerController. We will do some modifications to it. We will add the line of code which allows us to work further with InputSystem package.
 
-![](/images/24.png) 
+![](/images/24.png)
 
-We will create a void function OnMove where we will add force to the rigid body
+We will create a void function OnMove where we will add force to the rigid body:
+
+        private void OnMove(InputValue movementValue)
+        {
+            Vector2 movementVector = movementValue.Get<Vector2>();
+    
+            movementX = movementVector.x;
+            movementY = movementVector.y;
+        }
