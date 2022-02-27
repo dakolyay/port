@@ -40,7 +40,7 @@ Lately, you can try different propositions and preview them. I prefer this theme
 
 **Step 6.**
 
-Then there are configuration settings where you will have to attach a new website as your git project. After adding it to Forestry we can use Forestry editor. First you have to chose your git provider and then you can name your repository.
+Then there are configuration settings where you will have to attach a new website as your git project. After adding it to Forestry we can use Forestry editor. First, you have to choose your git provider and then you can name your repository.
 
 ![](/images/2022-02-24-18-25-11.png)![](/images/2022-02-24-18-25-28.png)
 
@@ -60,7 +60,7 @@ This is what it looks like. As you can see you can change the Title, main pictur
 
 ![](/images/2022-02-24-18-28-04.png)
 
-The best thing about Forestry is the fact that it allows working with both Raw editor and [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) editors. It is very convenient to see what you will have in the end as a product(blog post).
+The best thing about Forestry is the fact that it allows working with both Raw editor and [**WYSIWYG**](https://en.wikipedia.org/wiki/WYSIWYG) editors. It is very convenient to see what you will have in the end as a product(blog post).
 
 ![](/images/2022-02-24-15-12-55.png)
 
@@ -101,7 +101,7 @@ We can observe the deployment in Netlify by following the deployment details.
 
 ![](/images/2022-02-24-15-47-57.png)
 
-TA-DAA!
+**_TA-DAA!_**
 
 Now you can see your website and all the editing you have done. For now, there is not a lot of my own content. You can buy a domain or set up already one that you have and change the name of your site. As well you can Secure your site with HTTPS.
 
