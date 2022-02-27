@@ -84,7 +84,9 @@ In order to control and move it, we will create a script. In Unity, we will have
 
 The script can be easily added as a new component for Player.
 
-![](/images/22.png)![](/images/23.png)For now there is not much code in PlayerController. 
+![](/images/22.png)![](/images/23.png)For now, there is not much code in PlayerController. We will do some modifications to it. We will add the line of code which allows us to work further with InputSystem package. 
+
+![](/images/24.png)
 
 * 
 * 
