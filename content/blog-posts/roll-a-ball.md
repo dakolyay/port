@@ -126,8 +126,12 @@ But we still do not have a proper game installation. First thing first, there sh
 
 ![](/images/30.png)(Please do not mind the change of the scene. It is like that because I lost my previous work in one of the lab's computers)
 
-Later on, we will need some collection with whom we can interact to gain points. It will be GameObject Cube. It is enough to create one and duplicate the rest. 
+Later on, we will need some collection with whom we can interact to gain points. It will be GameObject Cube. It is enough to create one and duplicate the rest. But as well, we will use Unity Prefab. Unity Prefab allows us to utilize prefab in all the scenes of the project and it is like a template. We can make our Cube as Prefab.
 
 ![](/images/31.png)
+
+![](/images/32.png)
+
+![](/images/33.png)
 
 Every time the ball hits the cube, the cube should disappear and points should be increased. 
