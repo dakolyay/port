@@ -164,3 +164,13 @@ In the end, to make the game more playable it will be good to add some UI. We wa
     	}
 
 Hopefully, there is a special element in Unity that we will use next. For displaying the counter let's add Text-TextMest Pro in UI options. It can be easily found during the addition to Hierarchy. 
+
+![](/images/35.png)After the addition, we will have Canvas/Text and EventSystem. We can personalize our text area since it looks like this initially:
+
+![](/images/36.png)
+
+Now we have all the assets, logic, UI and we can actually play!
+
+The final view of this mini roll-a-ball game done in Unity looks like this:
+
+![](/images/37.png)
