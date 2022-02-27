@@ -100,4 +100,11 @@ We will create a void function OnMove where we will add force to the rigid body:
             movementY = movementVector.y;
         }
 
-f;dkfkdf
+Now we need to connect this to our FixedUpdate function:
+
+    void FixedUpdate()
+        {
+            Vector3 movement =new Vector3( movementX, 0.0f, movementY );
+            rb.AddForce(movement*speed);
+        }
+ We dont
