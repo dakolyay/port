@@ -134,4 +134,13 @@ Later on, we will need some collection with whom we can interact to gain points.
 
 ![](/images/33.png)The biggest plus of using the Prefab is the fact that we can change any feature in Prefab and it will automatically change the same feature in all instances of that Prefab. 
 
-Every time the ball hits the cube, the cube should disappear and points should be increased. 
+Every time the ball hits the cube, the cube should disappear and points should be increased. So we will use the OnTriggerEnter function where every time Player will collide with GameObject it will disappear. 
+
+    private void OnTriggerEnter(Collider other)
+        {
+            if (other.gameObject.CompareTag("PickUp")) 
+            {
+                other.gameObject.SetActive(false);
+            }
+        }
+ 
