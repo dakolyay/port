@@ -40,3 +40,10 @@ There are some modifications we still have to do:
 * Make the plane big since we will need enough space to roll our ball: 
 
   ![](/images/8.png)
+* It will be also good to distinguish the plane from anything else from the scene and make it more custom. So we will add a material to the plane by choosing Materials in Assets in the menubar.
+
+  ![](/images/10d.png)Now we can edit the material how we want and assign it to the plane by dragging and dropping it. 
+
+  ![](/images/11.png)![](/images/12.png)
+
+  Now we have our custom plane and we would like to place an actual ball on it.
