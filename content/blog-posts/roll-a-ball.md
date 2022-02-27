@@ -162,3 +162,4 @@ In the end, to make the game more playable it will be good to add some UI. We wa
                         winTextObject.SetActive(true);
     		}
     	}
+ fdkjgsdf
