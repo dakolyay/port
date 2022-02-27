@@ -12,7 +12,7 @@ In this section, we will look at the evaluation process of the locomotion techni
 
 The process of evaluating a technique is very important, because we can see how well or poorly it has been done, and whether it meets the needs of the people who will be using it. In total, we will be evaluating the technique in 6 different features. The first three features will be displayed while you are doing the parkour, the next three by answering the question. Parkour is the environment with different interference where you are able to test your locomotion technique.
 
-All the data has been carefully recorded [here](https://docs.google.com/spreadsheets/d/1gl_cY8W_fbZ-oWjuwwCaXlhqJYOiIsgjSXGrhmADXK4/edit#gid=0). Now for each of the features:
+All the data has been carefully recorded [**here**](https://docs.google.com/spreadsheets/d/1gl_cY8W_fbZ-oWjuwwCaXlhqJYOiIsgjSXGrhmADXK4/edit#gid=0). Now for each of the features:
 
 #### 1.
 
