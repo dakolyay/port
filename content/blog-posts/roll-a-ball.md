@@ -31,42 +31,65 @@ As a result, in your scene we will have a plane which was created to initial pos
 
 There are some modifications we still have to do:
 
-* Change the name of Plane:
+Change the name of Plane:
 
-  ![](/images/7.png)
-* Reset the transform field to make position equal to (0,0,0):
+![](/images/7.png)
 
-  ![](/images/7-5.png)
-* Make the plane big since we will need enough space to roll our ball:
+Reset the transform field to make position equal to (0,0,0):
 
-  ![](/images/8.png)
-* It will be also good to distinguish the plane from anything else from the scene and make it more custom. So we will add a material to the plane by choosing Materials in Assets in the menubar.
+![](/images/7-5.png)
 
-  ![](/images/10d.png)Now we can edit the material how we want and assign it to the plane by dragging and dropping it.
+Make the plane big since we will need enough space to roll our ball:
 
-  ![](/images/11.png)![](/images/12.png)
+![](/images/8.png)
 
-  Now we have our custom plane and we would like to place an actual ball on it.
+It will be also good to distinguish the plane from anything else from the scene and make it more custom. So we will add a material to the plane by choosing Materials in Assets in the menubar.
 
-  Since the ball it is a sphere we can add it to our scene with the same process as with plane:
+![](/images/10d.png)
 
-  ![](/images/13.png)
+Now we can edit the material how we want and assign it to the plane by dragging and dropping it.
 
-  Voila! We can see the ball on the plane. For now, it has initial settings which we will further change:
+![](/images/11.png)![](/images/12.png)
 
-  ![](/images/15.png)
+Now we have our custom plane and we would like to place an actual ball on it.
 
-  We will rename the GameObject as Player and reset its transform field in inspector.  
-  ![](/images/14.png)
+Since the ball it is a sphere we can add it to our scene with the same process as with plane:
 
-  Next, we will create new material for a ball and attach it to the Player.
+![](/images/13.png)
 
-  ![](/images/16.png)
+Voila! We can see the ball on the plane. For now, it has initial settings which we will further change:
 
-  We want to play with the ball and control it. To do so we will have to go to Package Manager and find Input System. So we will apply the keyboard input to control the ball's movement on the plane. 
+![](/images/15.png)
 
-  ![](/images/16-5.png)![](/images/17.png)After the installation and rebooting Unity, we will go to the Player's inspector field and add a new component. Adding new components to our GameObjects allows us to customize and modify them for our needs. 
+We will rename the GameObject as Player and reset its transform field in inspector.  
+![](/images/14.png)
 
-  ![](/images/18.png)
+Next, we will create new material for a ball and attach it to the Player.
 
-  It is important to change your building settings if you are thinking to work on Windows we have to change the Architecture to x86_64 by following File and Build Settings. 
+![](/images/16.png)
+
+We want to play with the ball and control it. To do so we will have to go to Package Manager and find Input System. So we will apply the keyboard input to control the ball's movement on the plane. 
+
+![](/images/16-5.png)![](/images/17.png)After the installation and rebooting Unity, we will go to the Player's inspector field and add a new component. Adding new components to our GameObjects allows us to customize and modify them for our needs. 
+
+![](/images/18.png)
+
+After adding a Player Input component to Player we will press Create action. 
+
+![](/images/2022-02-27-17-56-58.png)
+
+![](/images/20.png)We will drag this .inputaction file to the Actions field in the Players Input component in the Inspector. This will allow us to access the information for control devices but yet we can not move our ball. 
+
+In order to control and move it, we will create a script. In Unity, we will have to write code time to time in C#.
+
+The script can be easily added as a new component for Player.
+
+![](/images/22.png)![](/images/23.png)For now there is not much code in PlayerController. 
+
+* 
+* 
+* 
+* 
+* 
+* It is important to change your building settings if you are thinking to work on Windows we have to change the Architecture to x86_64 by following File and Build Settings. 
+* ![](/images/27.png)
