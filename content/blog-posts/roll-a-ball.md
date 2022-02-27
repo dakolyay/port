@@ -54,9 +54,11 @@ There are some modifications we still have to do:
 
   Voila! We can see the ball on the plane. For now, it has initial settings which we will further change:
 
-  ![](/images/14.png)  
   ![](/images/15.png)
 
-  fdlfkd
+  We will rename the GameObject as Player and reset its transform field in inspector.  
+  ![](/images/14.png)
+
+  Next, we will create new material for a ball and attach it to the Player.
 
   ![](/images/16.png)
