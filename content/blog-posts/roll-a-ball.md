@@ -68,30 +68,26 @@ Next, we will create new material for a ball and attach it to the Player.
 
 ![](/images/16.png)
 
-We want to play with the ball and control it. To do so we will have to go to Package Manager and find Input System. So we will apply the keyboard input to control the ball's movement on the plane. 
+We want to play with the ball and control it. To do so we will have to go to Package Manager and find Input System. So we will apply the keyboard input to control the ball's movement on the plane.
 
-![](/images/16-5.png)![](/images/17.png)After the installation and rebooting Unity, we will go to the Player's inspector field and add a new component. Adding new components to our GameObjects allows us to customize and modify them for our needs. 
+![](/images/16-5.png)![](/images/17.png)After the installation and rebooting Unity, we will go to the Player's inspector field and add a new component. Adding new components to our GameObjects allows us to customize and modify them for our needs.
 
 ![](/images/18.png)
 
-After adding a Player Input component to Player we will press Create action. 
+After adding a Player Input component to Player we will press Create action.
 
 ![](/images/2022-02-27-17-56-58.png)
 
-![](/images/20.png)We will drag this .inputaction file to the Actions field in the Players Input component in the Inspector. This will allow us to access the information for control devices but yet we can not move our ball. 
+![](/images/20.png)We will drag this .inputaction file to the Actions field in the Players Input component in the Inspector. This will allow us to access the information for control devices but yet we can not move our ball.
 
-In order to control and move it, we will create a script. In Unity, we will have to write code time to time in C#.
+It is important to change your building settings if you are thinking to work on Windows we have to change the Architecture to x86_64 by following File and Build Settings.
 
-The script can be easily added as a new component for Player.
+![](/images/27.png)
 
-![](/images/22.png)![](/images/23.png)For now, there is not much code in PlayerController. We will do some modifications to it. We will add the line of code which allows us to work further with InputSystem package. 
+In order to control and move the ball, we will create a script. In Unity, we will have to write code time to time in C#.
 
-![](/images/24.png)
+![](/images/22.png)![](/images/23.png)For now, there is not much code in PlayerController. We will do some modifications to it. We will add the line of code which allows us to work further with InputSystem package.
 
-* 
-* 
-* 
-* 
-* 
-* It is important to change your building settings if you are thinking to work on Windows we have to change the Architecture to x86_64 by following File and Build Settings. 
-* ![](/images/27.png)
+![](/images/24.png) 
+
+We will create a void function OnMove where we will add force to the rigid body 
