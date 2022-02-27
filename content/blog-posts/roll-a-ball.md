@@ -124,6 +124,10 @@ But we still do not have a proper game installation. First thing first, there sh
 
 ![](/images/29.png)It can be done pretty fast by creating one proper wall and duplicating it three times. After some operation with positioning walls in their right place we will have this pretty wall and ball:
 
-![](/images/30.png)(Please do not mind the change of the scene. It is like that because I lost my previous work in one of the lab's computer)
+![](/images/30.png)(Please do not mind the change of the scene. It is like that because I lost my previous work in one of the lab's computers)
 
 Later on, we will need some collection with whom we can interact to gain points. It will be GameObject Cube. It is enough to create one and duplicate the rest. 
+
+![](/images/31.png)
+
+Every time the ball hits the cube, the cube should disappear and points should be increased. 
