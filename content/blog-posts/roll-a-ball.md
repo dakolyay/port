@@ -107,4 +107,5 @@ Now we need to connect this to our FixedUpdate function:
             Vector3 movement =new Vector3( movementX, 0.0f, movementY );
             rb.AddForce(movement*speed);
         }
- We dont
+
+We declared the variable speed as a speed for a ball. 
