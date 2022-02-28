@@ -22,3 +22,4 @@ I defined the position of both right and left controllers.
 In a state where both of the controllers stay in a relatively equal position player will not turn anywhere and gonna stay straight. But if the user would like to turn left or right the controllers should change the position of height related to each other. I prevented the possibility of a controller switch by checking the positive value of the difference _dif_. 
 
     dif = leftPositon.y - rightPosition.y;
+ fdg
