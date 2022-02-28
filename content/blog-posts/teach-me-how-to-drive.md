@@ -25,10 +25,15 @@ In a state where both of the controllers stay in a relatively equal position pla
 
 ![](/images/2022-02-28-16-16-42.png)
 
-Now, I could turn my player to left and right and I realise that I have one bug. It was a camera and all the time when the player wanted to turn left or right the direction he/she was facing was left or right respectively. 
+Now, I could turn my player to left and right and I realise that I have one bug. It was a camera and all the time when the player wanted to turn left or right the direction he/she was facing was left or right respectively.
 
-All the cars have some brake and speed up so I added acceleration and brake. I defined them as a value from a triggering certain trigger button on controllers. 
+This brought me a lot of problems and a need to revise math and quaternions. But I manage to map the direction which 
+
+All the cars have some brake and speed up so I added acceleration and brake. I defined them as a value from a triggering certain trigger button on controllers.
 
     acceleration = OVRInput.Get(OVRInput.Axis1D.SecondaryHandTrigger);
     brake = OVRInput.Get(OVRInput.Axis1D.PrimaryHandTrigger);
- fdlfd
+
+I had to try again and again to find the best parameters for acceleration and brake values. 
+
+Here is a small video of what it looks like inside the game: [https://drive.google.com/file/d/1fok890YGkXTIHSocXoQtU31L5HDkXcmd/view?usp=sharing](https://drive.google.com/file/d/1fok890YGkXTIHSocXoQtU31L5HDkXcmd/view?usp=sharing "https://drive.google.com/file/d/1fok890YGkXTIHSocXoQtU31L5HDkXcmd/view?usp=sharing")
