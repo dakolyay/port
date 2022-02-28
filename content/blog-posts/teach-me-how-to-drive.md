@@ -1,7 +1,7 @@
 +++
 author = "Dariya Mukhatova"
 date = ""
-hero = ""
+hero = "/images/vrfootvibrations_feature.jpeg"
 title = "Locomotion Technique Implementation"
 type = "blog"
 
