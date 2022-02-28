@@ -43,4 +43,12 @@ All the cars have some brake and speed up so I added acceleration and brake. I d
 
 I had to try again and again to find the best parameters for acceleration and brake values.
 
+    public float acc = 0.01f;
+    if (acceleration > 0.1f){
+    	speed = speed + acc * acceleration;
+    }
+    if (brake > 0.1f){
+    	speed = speed * 0.99f;
+    }
+
 Here is a small video of what it looks like inside the game: [https://drive.google.com/file/d/1fok890YGkXTIHSocXoQtU31L5HDkXcmd/view?usp=sharing](https://drive.google.com/file/d/1fok890YGkXTIHSocXoQtU31L5HDkXcmd/view?usp=sharing "https://drive.google.com/file/d/1fok890YGkXTIHSocXoQtU31L5HDkXcmd/view?usp=sharing")
