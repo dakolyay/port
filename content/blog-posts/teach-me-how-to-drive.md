@@ -29,7 +29,12 @@ In a state where both of the controllers stay in a relatively equal position pla
 
 Now, I could turn my player to left and right and I realise that I have one bug. It was a camera and all the time when the player wanted to turn left or right the direction he/she was facing was left or right respectively.
 
-This brought me a lot of problems and a need to revise math and quaternions. But I manage to map the direction which
+This brought me a lot of problems and a need to revise math and quaternions. But I manage to map the direction to go forward and the direction of the controllers. 
+
+    public Vector3 dir = new Vector3(0f, 0f, 1f);
+    Quaternion rot = Quaternion.Euler(0f, rotc * dif, 0f);
+    this.dir = rot * this.dir;
+    this.transform.position = this.transform.position + this.dir * speed * Time.deltaTime;
 
 All the cars have some brake and speed up so I added acceleration and brake. I defined them as a value from a triggering certain trigger button on controllers.
 
