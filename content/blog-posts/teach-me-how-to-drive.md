@@ -19,4 +19,6 @@ I defined the position of both right and left controllers.
     leftPositon = OVRInput.GetLocalControllerPosition(leftController);
     rightPosition = OVRInput.GetLocalControllerPosition(rightController);
 
- In a state where both of the controllers stay in a relatively equal position player will not turn anywhere and gonna stay straight. But if user would like to 
+In a state where both of the controllers stay in a relatively equal position player will not turn anywhere and gonna stay straight. But if the user would like to turn left or right the controllers should change the position of height related to each other. I prevented the possibility of a controller switch. 
+
+    dif = leftPositon.y - rightPosition.y;
