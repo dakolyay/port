@@ -51,6 +51,8 @@ I had to try again and again to find the best parameters for acceleration and br
     	speed = speed * 0.99f;
     }
 
+In Parkour there is a special area that is tricky. There is a hill with coins on it and the problem with that hill is the fact that you can go into it inside the hill. This is not logically right especially when you drive a car. 
+
 There are functions that I would like to add in the future because for now the project state was not finished fully. To implement for the future:
 
 * The menu with options for first view player and controlling the car model
