@@ -62,9 +62,11 @@ In Parkour there is a special area that is tricky. There is a hill with coins on
     }
     float act_lvl = def_lvl;
 
-Then I rewrite the value of actual level act_lvl. I use actual level as the finish 
+Then I rewrite the value of actual level act_lvl. I use the actual level as the finish position vector's y variable. 
 
     this.transform.position = new Vector3(this.transform.position.x, act_lvl, this.transform.position.z);
+
+And it work and I could drive by changing the controller's height, adding the speed, and stopping whenever I press the brake and I could levitate with fuel I have.
 
 There are functions that I would like to add in the future because for now the project state was not finished fully. To implement for the future:
 
