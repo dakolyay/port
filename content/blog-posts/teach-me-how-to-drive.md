@@ -51,4 +51,6 @@ I had to try again and again to find the best parameters for acceleration and br
     	speed = speed * 0.99f;
     }
 
+As a result, the locomotion technique was easy to control, accurate enough to collect almost all the coins, and fun related to the [**evaluation**]() process of the participants. 
+
 Here is a small video of what it looks like inside the game: [https://drive.google.com/file/d/1fok890YGkXTIHSocXoQtU31L5HDkXcmd/view?usp=sharing](https://drive.google.com/file/d/1fok890YGkXTIHSocXoQtU31L5HDkXcmd/view?usp=sharing "https://drive.google.com/file/d/1fok890YGkXTIHSocXoQtU31L5HDkXcmd/view?usp=sharing")
