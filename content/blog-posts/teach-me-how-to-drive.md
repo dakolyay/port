@@ -51,7 +51,16 @@ I had to try again and again to find the best parameters for acceleration and br
     	speed = speed * 0.99f;
     }
 
-In Parkour there is a special area that is tricky. There is a hill with coins on it and the problem with that hill is the fact that you can go into it inside the hill. This is not logically right especially when you drive a car. 
+In Parkour there is a special area that is tricky. There is a hill with coins on it and the problem with that cliff is the fact that you can go into it inside the hill. This is not logically right especially when you drive a car. I manage to avoid this problem by tracking the position player and comparing it. I created a new variable which I edit related to the position on that cliff
+
+    float def_lvl;
+    else if (((this.transform.position.x > 72.0f) & (this.transform.position.x < 100.0f)) & ((this.transform.position.z < 105.0f) & (this.transform.position.z > 70.0f))){
+    def_lvl = 12.1f;
+    }
+    else{
+    def_lvl = 1f;
+    }
+    float act_lvl = def_lvl;
 
 There are functions that I would like to add in the future because for now the project state was not finished fully. To implement for the future:
 
